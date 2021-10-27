@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Activities for HAND2
+title: Cropping and Exporting Photos
 nav_order: 2
 parent: Workshop Activities
 ---
