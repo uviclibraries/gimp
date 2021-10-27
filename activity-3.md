@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Activities for HAND2
+title: Change Image Dimensions
 nav_order: 4
 parent: Workshop Activities
 ---
