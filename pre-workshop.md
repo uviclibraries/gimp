@@ -13,7 +13,7 @@ This workshop is primarily hands-on practice with GIMP in order to learn to use 
             -  Then [download the Office installer here](https://portal.office.com){:target="_blank"}<br>
             -  Please login with your UVic NetLink ID credentials. Please note that you will need to enter in your NetLinkID@uvic.ca, and not just your NetLinkID.
 
--   [Beginners Overview of GIMP](https://youtu.be/_L_MMU22bAw?t=132){:target="_blank"} (7 min)
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/_L_MMU22bAw?start=132s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+-   [Beginners Overview of GIMP](https://youtu.be/_L_MMU22bAw?t=132){:target="_blank"} (7 billion min)
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/_L_MMU22bAw?start=132" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [NEXT STEP: Introduction to Hands-On Activities](activities-intro.html){: .btn .btn-blue }
