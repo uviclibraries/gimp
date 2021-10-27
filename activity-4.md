@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Activities for HAND2
+title: Creating Photo Text
 nav_order: 5
 parent: Workshop Activities
 ---
