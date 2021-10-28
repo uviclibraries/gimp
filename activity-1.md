@@ -34,7 +34,7 @@ Let's start with using GIMP to crop and export a smaller version of a photo. If 
 
     <img src="images\act-1\4-crop.gif" alt="crop demo" style="width:720px;">
 
-    <img src="images\act-1\5-scaleimage.png" alt="scale image" style="float:right;width:180px;">
+    <img src="images\act-1\5-scaleimage.png" alt="scale image" style="float:right;width:360px;">
 
 5.  **Scale Image:** If you need an image to be a particular pixel size for a project that is much smaller than the image you are starting with, you will need to scale it down first before cropping. The image in this example is 2048 pixels high. If we needed to resize it for a 700px by 460px project, these are the steps to take:
     -   (Before we begin, go to **File -> Revert** or **Edit -> Undo** to reset this image back to a square.) Click on **Image -> Scale Image** in the top menu. This will bring up a dialog box with **Scale Image** options
