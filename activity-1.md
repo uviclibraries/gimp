@@ -57,14 +57,14 @@ Let's start with using GIMP to crop and export a smaller version of a photo. If 
     -   As in the earlier instructions, you can click inside the crop window to move it around and adjust the position and then hit the **Enter** key when ready to finish the crop
 
     <img src="images\act-1\5-crop.gif" alt="crop demo" style="width:720px;">
+    
+    <img src="images\act-1\6-save.png" alt="save" style="float:right;width:180px;">
 
 6.  **Save:** Since we already have the original large version of this file and haven't created any editing layers, we don't need to save any extra versions of this. We can export it as a new, smaller image for our purposes
     
-    <img src="images\act-1\6-save.png" alt="save" style="float:right;width:180px;">
+    <img src="images\act-1\6-mystery.png" alt="mysterious" style="float:right;width:180px;">
     
     -   Click on **File -> Export As**. This will bring up an exporting dialog box. The default is to save this as a PNG file. You can either keep this and simply change the name of the file from "Untitled" to something else in the top of the box, or you can change the file type by clicking on **Select File Type** in the bottom of the box. JPEG image is a common option for photos shared online. Make sure to give the file a name other than "Untitled"
-
-        <img src="images\act-1\6-mystery.png" alt="mysterious" style="float:right;width:180px;">
 
     -   Click the **Export** button
     -   Another box will pop up with **Quality** and other options. Click **Export**
