@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cropping and Exporting Photos
+title: 1: Cropping and Exporting Photos
 nav_order: 2
 parent: Workshop Activities
 ---
@@ -13,13 +13,11 @@ Let's start with using GIMP to crop and export a smaller version of a photo. If 
 
 1.  Go to [this image](){:target="_blank"}. Click on the green **Free Download** button to save it
 
-<img src="images\act-1\2-fileopen.png" alt="file open" style="float:right;width:180px;">
-
-2.  Open the photo in GIMP by going to **File -> Open** in the upper menu. Find where you saved the photo and open it. If your browser automatically saved it for you, it is probably in your **Downloads** folder. It may pop up with another window asking to **Convert to RGB Working Space**. (Note: there are certain circumstances you may need to convert an image to a differentcolor profile, such as when importing from a scanner or camera. But in this case, it is not necessary.) Click on **Keep**
+2.  <img src="images\act-1\2-fileopen.png" alt="file open" style="float:right;width:180px;">Open the photo in GIMP by going to **File -> Open** in the upper menu. Find where you saved the photo and open it. If your browser automatically saved it for you, it is probably in your **Downloads** folder. It may pop up with another window asking to **Convert to RGB Working Space**. (Note: there are certain circumstances you may need to convert an image to a differentcolor profile, such as when importing from a scanner or camera. But in this case, it is not necessary.) Click on **Keep**
 
 <img src="images\act-1\2-fileopen.gif" alt="open file demo" style="width:720px;">
 
-<img src="images\act-1\3-imageduplicate.png" alt="image duplicate" style="float:right;width:180px;">
+<img src="images\act-1\3-imageduplicate.png" alt="image duplicate" style="float:right;width:240px;">
 <img src="images\act-1\3-littleX.png" alt="multiple tabs" style="float:right;width:180px;">
 <img src="images\act-1\3-untitled.png" alt="asterisk" style="float:right;width:180px;">
 
