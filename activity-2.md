@@ -38,9 +38,10 @@ Let's move on with using GIMP and do some basic edits to a photo. If you have an
     -   Whenever you see the asterisk to the left of the file name up in the top center of the software, this is an indication that you've made a change to your file and have not saved it
     -   Click on **File -> Save As** in the upper left corner. We are going to save this in the GIMP .xcf format, which is the working format within GIMP. Choose where you would like to save the file and give it a name you will remember. Click **Save**
 
-    <img src="images\act-2\6-magnify.png" alt="magnifying glass" style="float:right;width:180px;">
-
 6.  **Healing Tool:** Next we will remove the visible screws in the post
+    
+    <img src="images\act-2\6-magnify.png" alt="magnifying glass" style="float:right;width:120px;">
+    
     -   First, zoom in on the top screw on the post by clicking on the **Magnifying Glass** tool in the left toolbar. The options for this tool will load beneath the toolbar. Make sure **Zoom In** is selected and then click on the screw to zoom in on it
 
         <img src="images\act-2\6-zoom.gif" alt="zoom demo" style="width:720px;">
