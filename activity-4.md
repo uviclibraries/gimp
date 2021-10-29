@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Creating Photo Text
+title: 4) Creating Photo Text
 nav_order: 5
 parent: Workshop Activities
 ---
