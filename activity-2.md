@@ -9,22 +9,21 @@ parent: Workshop Activities
 
 Let's move on with using GIMP and do some basic edits to a photo. If you have an questions, please ask!
 
-<img src="images\act-2\1-open.png" alt="open" style="float:right;width:180px;">
-
 1.  Download this image for the exercise: [woman in red and white shirt standing near white wall photo - Free Blonde Image](https://unsplash.com/photos/xEX_o0haX6c){:target="_blank"}
 
-<img src="images\act-2\2-duplicate.png" alt="duplicate" style="float:right;width:180px;">
+    <img src="images\act-2\1-open.png" alt="open" style="float:right;width:180px;">
+    <img src="images\act-2\2-duplicate.png" alt="duplicate" style="float:right;width:180px;">
 
 2.  Open the photo in GIMP by going to **File -> Open** in the upper menu. Find where you saved the photo and open it. If your browser automatically saved it for you, it is probably in your **Downloads** folder. It may pop up with another window asking to **Convert to RGB Working Space**. (_Note: there are certain circumstances wherein you may need to convert an image to a different color profile, such as when importing from a scanner or camera. But in this case, it is not necessary._) Click on **Keep**
 
-<img src="images\act-2\2-open.gif" alt="open" style="width:720px;">
+    <img src="images\act-2\2-open.gif" alt="open" style="width:720px;">
 
-<img src="images\act-2\3-littleX.png" alt="multiple tabs" style="float:right;width:180px;">
-<img src="images\act-2\3-untitled.png" alt="asterisk" style="float:right;width:180px;">
+    <img src="images\act-2\3-littleX.png" alt="multiple tabs" style="float:right;width:180px;">
+    <img src="images\act-2\3-untitled.png" alt="asterisk" style="float:right;width:180px;">
 
 3.  We are first going to make a copy of this image before we edit it so that we keep a full size copy of our original. To do this, click on **Image** in the top menu and then click on **Duplicate**. This will create a new copy of the image. You will now see above your image that you have two tabs open in GIMP with the thumbnails of the two files. If you click on the thumbnails, a little "X" appears next to the active one and at the top of the software the filename appears. The new copy will be called **[Untitled]** until you save it with a new name. Make sure you are working in the one you plan to resize. It's best to close the original to avoid confusion by clicking on the little "X" next to the thumbnail
 
-<img src="images\act-2\3-duplicate.gif" alt="duplicate demo" style="width:720px;">
+    <img src="images\act-2\3-duplicate.gif" alt="duplicate demo" style="width:720px;">
 
 4.  **Converting to Black and White:**
     -   Click on **Colors** in the top menu (see right), then **Desaturate**, and then **Desaturate...**. A small window will pop up. Make sure **Luminance** is selected as the **Mode**. Click **OK**
