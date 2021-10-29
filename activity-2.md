@@ -45,7 +45,7 @@ Let's move on with using GIMP and do some basic edits to a photo. If you have an
 
         <img src="images\act-2\6-zoom.gif" alt="zoom demo" style="width:720px;">
         
-        <img src="images\act-2\6-healing.png" alt="healing icon" style="float:right;width:180px;">
+        <img src="images\act-2\6-healing.png" alt="healing icon" style="float:right;width:120px;">
 
     -   Click on the **Healing Tool** in the left toolbar (bandaid icon). Beneath it, the options for this tool will load. In the options, you can choose a brush size, etc. The default of 51 should be big enough for this project
 
