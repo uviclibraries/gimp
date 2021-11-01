@@ -31,8 +31,8 @@ In this activity we are going to change the aspect retio of an image without cro
     
     -   The image will now have a bigger canvas size, but the stretched canvas will have a blank, checkered background. To match the background color, click on the **Color Picker** tool (eyedropper icon) in the left toolbar. Then, use the tool to click on the yellow background of the image. This will change the foreground color in the swatches and make that exact yellow the new selected colour (see right for a before and after)
     
-        <img src="images\act-3\4-selectedcolorbefore.png" alt="before color select" style="float:right;width:180px;height:100px;">
-        <img src="images\act-3\4-selectedcolor.png" alt="after color select" style="float:right;width:180px;height:100px">
+        <img src="images\act-3\4-selectedcolorbefore.png" alt="before color select" style="float:left;width:180px;height:100px;margin-right:10px;margin-bottom:10px;">
+        <img src="images\act-3\4-selectedcolor.png" alt="after color select" style="float:left;width:180px;height:100px">
         
         <img src="images\act-3\4-dropper.gif" alt="using dropper" style="width:720px;">
     
