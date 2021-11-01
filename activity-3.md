@@ -48,6 +48,8 @@ In this activity we are going to change the aspect retio of an image without cro
     -   For this second method, we will start with a blank canvas. Go to **File -> New**. A window will pop up with options for starting a new, blank document. Here you can choose the dimensions necessary for your project. For this one, we are going to create a letter size image. Click on the **Template** dropdown and choose **US Letter (300 ppi)** and then click **OK**. This will open up a blank, white canvas in the dimensions of a letter size sheet of paper
     
         <img src="images\act-3\6-placing.gif" alt="placing on layer" style="width:720px;">
+        
+        <img src="images\act-3\6-layers.png" alt="layers" style="float:right;width:180px;">
     
     -   Click on **File -> Open as Layers**, find the original image you downloaded, and then click **Open**. This will place the image in the center of the canvas and create a new layer for it in the **Layers** panel on the right
     
@@ -55,7 +57,6 @@ In this activity we are going to change the aspect retio of an image without cro
     
     -   The color in your **Color Picker** should still be selected from the background from the earlier steps. Click on the **Background Layer** to make sure it is the selected layer. Then, click on the **Bucket Fill Tool** in the left toolbar (paint bucket icon). In the tool options beneath the toolbar in the left, make sure **FG color fill** is selected and **Fill whole selection**. Hover the **Bucket Fill Tool** over the white area of the image and then **click**. The colour you selected should fill in the whole white area
 
-        <img src="images\act-3\6-layers.png" alt="layers" style="float:right;width:180px;">
         <img src="images\act-3\6-bucket.png" alt="bucket icon" style="float:right;width:180px;">
 
 7.  **Save:** To save, follow the steps from the previous activities to export the file as a JPG or PNG. If you want to preserve the layers for future editing, you can save it as a .xcf as well
