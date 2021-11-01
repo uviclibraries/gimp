@@ -16,7 +16,7 @@ In this activity we will be creating photo-based text. If you have any questions
     <img src="images\act-4\1-newlayer.gif" alt="making new layer" style="width:720px;">
     
     <img src="images\act-4\4-morefont.png" alt="font menu" style="float:right;width:180px;margin-left:10px;">
-    <img src="images\act-4\4-font.png" alt="font icon" style="float:right;width:90px;">
+    <img src="images\act-4\4-font.png" alt="font icon" style="float:right;width:90px;margin-left:10px;">
 
 4.  Next, click on the **Text Tool** ("A" icon) in the left toolbar. This will bring up the tool's options below the left toolbar. We will be using the font **Arial Black, Heavy (or Arial Heavy)**. To change the font, **click in the font name field** and start typing **Arial**, and a list of fonts will appear. Select **Arial Black, Heavy**. Below that, enter **Size 504px**, color black, and then lower there is an option for spacing between letters (icon with an "a b" with arrows beneath them). For spacing, we will use **-61**
 5.  Click over on the canvas and start typing: type the word **ADVENTURE** in all caps
