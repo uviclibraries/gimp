@@ -63,6 +63,6 @@ Let's move on with using GIMP and do some basic edits to a photo. If you have an
     -   Click on **File -> Save** to save your recent changes
 7.  **Exporting:**
     -   To export this to a full size JPG file, click on **File -> Export As** in the upper left corner. A window will pop up with options. Change the **File Type** to **JPG** in the dropdown in the lower left corner of the **Export Image** window. Choose your save location. Click the **Export** button in the bottom corner when ready. Another small window will pop up giving you some additional options. Change the quality to 100. Click **Export**
-    -   You will now have your original unedited photo, an edited .xcf working format that you can go back and edit more, and a JPG file that is readt to print. If you want a smaller JPG to share online, you can scale down the pixels using the instructions from Activity #1
+    -   You will now have your original unedited photo, an edited .xcf working format that you can go back and edit more, and a JPG file that is ready to print. If you want a smaller JPG to share online, you can scale down the pixels using the instructions from Activity #1
 
 [NEXT STEP: Activity 3](activity-3.html){: .btn .btn-blue }
