@@ -50,7 +50,7 @@ Let's move on with using GIMP and do some basic edits to a photo. If you have an
 
     -   Click on the **Healing Tool** in the left toolbar (bandaid icon). Beneath it, the options for this tool will load. In the options, you can choose a brush size, etc. The default of 51 should be big enough for this project
 
-        <img src="images\act-2\6-healingmenu.png" alt="healing menu" style="float:right;width:120px;">
+        <img src="images\act-2\6-healingmenu.png" alt="healing menu" style="float:right;width:180px;">
 
     -   Hold down the Command key (Apple) or Ctrl key (Windows) while clicking on a clean spot of the pole that you want to duplicate and use to replace in the area where the screw is. Release the button and the mouse and then use your left mouse button to **draw over the screw** until it is gone. Go ahead and clean up the blemish right above it too. See to the right for a before and after. Optionally, use the **Healing Tool** to remove the screw at the base of the pole
 
