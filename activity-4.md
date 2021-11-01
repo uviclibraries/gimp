@@ -30,7 +30,7 @@ In this activity we will be creating photo-based text. If you have any questions
 
     <img src="images\act-4\6-opacity.gif" alt="opacity" style="width:720px;">
     
-    <img src="images\act-4\" alt="open" style="width:720px;">
+    <img src="images\act-4\7-moveicon.png" alt="move icon" style="float:right;width:180px;">
 
 7.  **Click back onto the text layer**. Over in the left toolbar, click on the **Move Tool** (four arrows icon) and use it to move the text so the center of the N in the text is over the car in the photo
 
@@ -38,18 +38,18 @@ In this activity we will be creating photo-based text. If you have any questions
 
 8.  Over in the **Layers Panel**, **right click** on the text layer and then click on **Alpha to Selection**. This will trace a selection around all the text. Next in the **Layers Panel**, click on the **eye icon in the text layer** to make the text invisible, and then **click on the white layer** to make it the active layer
 
-    <img src="images\act-4\" alt="open" style="width:720px;">
+    <img src="images\act-4\8-alphatoselection.gif" alt="alpha" style="width:720px;">
 
 9.  Go to **Edit** in the top menu and click on **Cut**. This will cut out the inside of the selection in the white layer. Then click on **Select** in the top menu and click on **None** to deselect the outlines
 10. At this point, you can choose to go back to the **Layers Panel** and increase the **Opacity** of the white layer to 100% so that it is solid white or have it partially transparent so you can see part of the photo. Try turning the **Opacity** up and down to see the difference
 
-    <img src="images\act-4\" alt="open" style="width:720px;">
+    <img src="images\act-4\10-mask.gif" alt="mask" style="width:720px;">
 
 11. Note: If you only want to keep th lower part of the image with the text, you can use the **Crop Tool** (as described in an earlier activity) with **Fixed** unchecked to crop the lower part of the image
 
-    <img src="images\act-4\" alt="open" style="width:720px;">
+    <img src="images\act-4\11-crop.png" alt="cropped result" style="float:right;width:360px;">
     
-    <img src="images\act-4\" alt="open" style="width:720px;">
+    <img src="images\act-4\12-result.png" alt="final result" style="float:right;width:240px;">
 
 12. **Save:** Click on **File -> Save As** in the upper left corner. We are going to save this in the GIMP .xcf format, which is the working format within GIMP that will preserve the layers. Choose where you would like to save the file, and give it a name you will remember. Click **Save**. You can export a JPG or PNG of the image using instructions from Activities #1 or #2
 
