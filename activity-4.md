@@ -48,4 +48,4 @@ In this activity we will be creating photo-based text. If you have any questions
 
 12. **Save:** Click on **File -> Save As** in the upper left corner. We are going to save this in the GIMP .xcf format, which is the working format within GIMP that will preserve the layers. <img src="images\act-4\12-result.png" alt="final result" style="float:right;width:240px;">Choose where you would like to save the file, and give it a name you will remember. Click **Save**. You can export a JPG or PNG of the image using instructions from Activities #1 or #2
 
-[NEXT STEP: Bonus Activity](activity-bonus.html){: .btn .btn-blue }
+<br><br><br><br>[NEXT STEP: Bonus Activity](activity-bonus.html){: .btn .btn-blue }
