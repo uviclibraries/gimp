@@ -53,9 +53,10 @@ In this activity we are going to change the aspect retio of an image without cro
     
     -   Click on **File -> Open as Layers**, find the original image you downloaded, and then click **Open**. This will place the image in the center of the canvas and create a new layer for it in the **Layers** panel on the right
     
+        <img src="images\act-3\6-bucket.png" alt="bucket icon" style="float:right;width:90px;margin-left:10px;">
         <img src="images\act-3\6-color.png" alt="color" style="float:right;width:90px;">
     
-    -   The color in your **Color Picker** should still be selected from the background from the earlier steps. Click on the **Background Layer** to make sure it is the selected layer. Then, click on the **Bucket Fill Tool** in the left toolbar (paint bucket icon). In the tool options beneath the toolbar in the left, make sure **FG color fill** is selected and **Fill whole selection**. <img src="images\act-3\6-bucket.png" alt="bucket icon" style="float:right;width:90px;">Hover the **Bucket Fill Tool** over the white area of the image and then **click**. The colour you selected should fill in the whole white area
+    -   The color in your **Color Picker** should still be selected from the background from the earlier steps. Click on the **Background Layer** to make sure it is the selected layer. Then, click on the **Bucket Fill Tool** in the left toolbar (paint bucket icon). In the tool options beneath the toolbar in the left, make sure **FG color fill** is selected and **Fill whole selection**. Hover the **Bucket Fill Tool** over the white area of the image and then **click**. The colour you selected should fill in the whole white area
         
         <img src="images\act-3\7-result2.png" alt="after" style="float:right;width:180px;margin-left:10px;">
         <img src="images\act-3\7-result.png" alt="before" style="float:right;width:180px;">
