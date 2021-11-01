@@ -20,7 +20,7 @@ In this activity we are going to change the aspect retio of an image without cro
 
     <img src="images\act-3\3-duplicate.gif" alt="duplicate demo" style="width:720px;">
     
-    <img src="images\act-3\4-canvassize.png" alt="canvas size menu" style="float:right;width:360px;">
+    <img src="images\act-3\4-canvassize.png" alt="canvas size menu" style="float:right;width:360px;margin-bottom:10px;">
 
 4.  **Changing Canvas Size:**
     -   Click on **Image -> Canvas Size**. This will pop up a window with **Canvas Size** options. For this example, we are going to turn this graphic from a rectangle into a square, so to do that we will simply make sure that the lower number in **Height** pixels is increased to the same number as the **Width** by clicking in the box and typing. Your GIMP may have this number in "Pixels" or in "Inches", feel free to use the drop down to change it. Under **Offset**, click on **Center** so that the original image will be placed in the center of the larger canvas. Then, click **Resize**
