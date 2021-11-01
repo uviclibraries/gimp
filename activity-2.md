@@ -56,8 +56,8 @@ Let's move on with using GIMP and do some basic edits to a photo. If you have an
 
         <img src="images\act-2\6-healing.gif" alt="healing demo" style="width:720px;">
         
-        <img src="images\act-2\6-screw.png" alt="screw" style="float:right;width:180px;height:240px;">
         <img src="images\act-2\6-somemore.png" alt="some more" style="float:right;width:180px;height:240px;">
+        <img src="images\act-2\6-screw.png" alt="screw" style="float:right;width:180px;height:240px;">
 
     -   Use the **Zoom Tool** to zoom back out to see the whole photo
     -   Click on **File -> Save** to save your recent changes
