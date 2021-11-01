@@ -14,26 +14,25 @@ In this activity we are going to change the aspect retio of an image without cro
 
     <img src="images\act-3\2-open.gif" alt="open" style="width:720px;">
 
-    <img src="images\act-3\3-duplicatemenu.png" alt="duplicate menu" style="float:right;width:180px;">
-    <img src="images\act-3\3-duplicate.png" alt="duplicate" style="float:right;width:180px;">
-    <img src="images\act-3\3-untitled.png" alt="untitled" style="float:right;width:180px;">
+    <img src="images\act-3\3-duplicatemenu.png" alt="duplicate menu" style="float:right;width:240px;">
 
-3.  We are first going to make a copy of this image before we edit it so that we keep a full size copy of our original. To di this, click on **Image** in the top menu and then click on **Duplicate**. This will create a new copy of the image. You will now see above your image that you have two tabs open in GIMP with the thumbnails of the two files. If you click on the thumbnails, a little "X" appears next to the active one and at the top of the software the filename appears. The new copy will be called **[Untitled]** until you save it with a new name. Make sure you are working in the one you plan to resize. It's best to close the original to avoid confusion by clicking on the little "X" next to the thumbnail
+3.  We are first going to make a copy of this image before we edit it so that we keep a full size copy of our original. <img src="images\act-3\3-duplicate.png" alt="duplicate" style="float:right;width:240px;"><img src="images\act-3\3-untitled.png" alt="untitled" style="float:right;width:180px;">To do this, click on **Image** in the top menu and then click on **Duplicate**. This will create a new copy of the image. You will now see above your image that you have two tabs open in GIMP with the thumbnails of the two files. If you click on the thumbnails, a little "X" appears next to the active one and at the top of the software the filename appears. The new copy will be called **[Untitled]** until you save it with a new name. Make sure you are working in the one you plan to resize. It's best to close the original to avoid confusion by clicking on the little "X" next to the thumbnail
 
     <img src="images\act-3\3-duplicate.gif" alt="duplicate demo" style="width:720px;">
     
-    <img src="images\act-3\4-canvassize.png" alt="canvas size menu" style="float:right;width:180px;">
+    <img src="images\act-3\4-canvassize.png" alt="canvas size menu" style="float:right;width:360px;">
 
 4.  **Changing Canvas Size:**
     -   Click on **Image -> Canvas Size**. This will pop up a window with **Canvas Size** options. For this example, we are going to turn this graphic from a rectangle into a square, so to do that we will simply make sure that the lower number in **Height** pixels is increased to the same number as the **Width** by clicking in the box and typing. Your GIMP may have this number in "Pixels" or in "Inches", feel free to use the drop down to change it. Under **Offset**, click on **Center** so that the original image will be placed in the center of the larger canvas. Then, click **Resize**
     
         <img src="images\act-3\4-canvassize.gif" alt="canvas size demo" style="width:720px;">
+        
+        <img src="images\act-3\4-dropper.png" alt="dropper icon" style="float:right;width:90px;">
     
     -   The image will now have a bigger canvas size, but the stretched canvas will have a blank, checkered background. To match the background color, click on the **Color Picker** tool (eyedropper icon) in the left toolbar. Then, use the tool to click on the yellow background of the image. This will change the foreground color in the swatches and make that exact yellow the new selected colour (see right for a before and after)
     
-        <img src="images\act-3\4-dropper.png" alt="dropper icon" style="float:right;width:180px;">
-        <img src="images\act-3\4-selectedcolorbefore.png" alt="before color select" style="float:right;width:180px;">
-        <img src="images\act-3\4-selectedcolor.png" alt="after color select" style="float:right;width:180px;">
+        <img src="images\act-3\4-selectedcolorbefore.png" alt="before color select" style="float:right;width:180px;height:100px;">
+        <img src="images\act-3\4-selectedcolor.png" alt="after color select" style="float:right;width:180px;height:100px">
         
         <img src="images\act-3\4-dropper.gif" alt="using dropper" style="width:720px;">
     
