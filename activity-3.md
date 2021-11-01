@@ -63,4 +63,4 @@ In this activity we are going to change the aspect retio of an image without cro
 
 7.  **Save:** To save, follow the steps from the previous activities to export the file as a JPG or PNG. If you want to preserve the layers for future editing, you can save it as a .xcf as well
 
-[NEXT STEP: Activity 4](activity-4.html){: .btn .btn-blue }
+<br><br><br>[NEXT STEP: Activity 4](activity-4.html){: .btn .btn-blue }
