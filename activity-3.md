@@ -57,8 +57,8 @@ In this activity we are going to change the aspect retio of an image without cro
     
     -   The color in your **Color Picker** should still be selected from the background from the earlier steps. Click on the **Background Layer** to make sure it is the selected layer. Then, click on the **Bucket Fill Tool** in the left toolbar (paint bucket icon). In the tool options beneath the toolbar in the left, make sure **FG color fill** is selected and **Fill whole selection**. Hover the **Bucket Fill Tool** over the white area of the image and then **click**. <img src="images\act-3\6-bucket.png" alt="bucket icon" style="float:right;width:90px;">The colour you selected should fill in the whole white area
         
-        <img src="images\act-3\7-result.png" alt="before" style="float:left;width:180px;margin-right:10px;">
-        <img src="images\act-3\7-result2.png" alt="after" style="float:left;width:180px;">
+        <img src="images\act-3\7-result2.png" alt="after" style="float:right;width:180px;margin-left:10px;">
+        <img src="images\act-3\7-result.png" alt="before" style="float:right;width:180px;">
 
 7.  **Save:** To save, follow the steps from the previous activities to export the file as a JPG or PNG. If you want to preserve the layers for future editing, you can save it as a .xcf as well
 
