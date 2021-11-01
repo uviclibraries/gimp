@@ -18,7 +18,7 @@ In this activity we will be creating photo-based text. If you have any questions
 
     <img src="images\act-4\1-newlayer.gif" alt="making new layer" style="width:720px;">
     
-    <img src="images\act-4\4-font.png" alt="font icon" style="float:right;width:180px;">
+    <img src="images\act-4\4-font.png" alt="font icon" style="float:right;width:90px;">
     <img src="images\act-4\4-morefont.png" alt="font menu" style="float:right;width:180px;">
 
 4.  Next, click on the **Text Tool** ("A" icon) in the left toolbar. This will bring up the tool's options below the left toolbar. We will be using the font **Arial Black, Heavy (or Arial Heavy)**. To change the font, **click in the font name field** and start typing **Arial**, and a list of fonts will appear. Select **Arial Black, Heavy**. Below that, enter **Size 504px**, color black, and then lower there is an option for spacing between letters (icon with an "a b" with arrows beneath them). For spacing, we will use **-61**
@@ -30,7 +30,7 @@ In this activity we will be creating photo-based text. If you have any questions
 
     <img src="images\act-4\6-opacity.gif" alt="opacity" style="width:720px;">
     
-    <img src="images\act-4\7-moveicon.png" alt="move icon" style="float:right;width:180px;">
+    <img src="images\act-4\7-moveicon.png" alt="move icon" style="float:right;width:90px;">
 
 7.  **Click back onto the text layer**. Over in the left toolbar, click on the **Move Tool** (four arrows icon) and use it to move the text so the center of the N in the text is over the car in the photo
 
@@ -47,10 +47,8 @@ In this activity we will be creating photo-based text. If you have any questions
 
 11. Note: If you only want to keep th lower part of the image with the text, you can use the **Crop Tool** (as described in an earlier activity) with **Fixed** unchecked to crop the lower part of the image
 
-    <img src="images\act-4\11-crop.png" alt="cropped result" style="float:right;width:360px;">
-    
-    <img src="images\act-4\12-result.png" alt="final result" style="float:right;width:240px;">
+    <img src="images\act-4\11-crop.png" alt="cropped result" style="float:right;width:240px;margin-bottom:10px;">
 
-12. **Save:** Click on **File -> Save As** in the upper left corner. We are going to save this in the GIMP .xcf format, which is the working format within GIMP that will preserve the layers. Choose where you would like to save the file, and give it a name you will remember. Click **Save**. You can export a JPG or PNG of the image using instructions from Activities #1 or #2
+12. **Save:** Click on **File -> Save As** in the upper left corner. We are going to save this in the GIMP .xcf format, which is the working format within GIMP that will preserve the layers. <img src="images\act-4\12-result.png" alt="final result" style="float:right;width:240px;">Choose where you would like to save the file, and give it a name you will remember. Click **Save**. You can export a JPG or PNG of the image using instructions from Activities #1 or #2
 
 [NEXT STEP: Bonus Activity](activity-bonus.html){: .btn .btn-blue }
