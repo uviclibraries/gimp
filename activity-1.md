@@ -26,7 +26,7 @@ Let's start with using GIMP to crop and export a smaller version of a photo. If 
     <img src="images\act-1\4-croptool.png" alt="crop tool" style="float:right;width:120px;">
 
 4.  **Crop Tool:**
-    -   Click on the **Crop Tool** in the left toolbar. The Crop Tool options will appear beliw the toolbar on the left. Click to select **Fixed Aspect Ratio**. In the field below it, enter 4:6 to change the aspect ratio to the same as that of a 4x6 photo. <img src="images\act-1\4-aspectratio.png" alt="aspect ratio" style="float:right;width:180px;">Next to the input field there are the Portrait and Landscape otion buttons to change the orientation of the crop
+    -   Click on the **Crop Tool** in the left toolbar. The Crop Tool options will appear below the toolbar on the left. Click to select **Fixed Aspect Ratio**. In the field below it, enter 4:6 to change the aspect ratio to the same as that of a 4x6 photo. <img src="images\act-1\4-aspectratio.png" alt="aspect ratio" style="float:right;width:180px;">Next to the input field there are the Portrait and Landscape option buttons to change the orientation of the crop
     
         <img src="images\act-1\4-cropapply.png" alt="apply the crop" style="float:right;width:180px;">
     
