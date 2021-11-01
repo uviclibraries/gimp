@@ -11,6 +11,9 @@ In this activity we will be creating photo-based text. If you have any questions
 
 1.  Download [this image](https://www.pexels.com/photo/green-leaf-trees-908518/){:target="_blank"} for the exercise
 2.  Open the photo in GIMP by going to **File -> Open** in the upper menu. Find where you saved the photo and open it. If your browser auromatically saved it for you, it is probably in your **Downloads** folder. It may pop up with another window asking to **Convert to RGB Working Space**. (_Note: there are certain circumstances where you may need to convert an image to a different color profile, such as when importing from a scanner or camera. But in this case, it is not necessary._) Click on **Keep**. If you wanted to do this project using one of your own images, it would be best to create a duplicate first, as descibed in previous activities
+
+
+
 3.  Click on **Layer** in the top menu and then **New Layer**. In the dialog box that pops up, in the **Fill With** dropdown menu, choose **White** and then click **OK**. A new white layer will appear covering the image and you will see it listed in the **Layers panel** on the right
 4.  Next, click on the **Text Tool** ("A" icon) in the left toolbar. This will bring up the tool's options below the left toolbar. We will be using the font **Arial Black, Heavy (or Arial Heavy)**. To change the font, **click in the font name field** and start typing **Arial**, and a list of fonts will appear. Select **Arial Black, Heavy**. Below that, enter **Size 504px**, color black, and then lower there is an option for spacing between letters (icon with an "a b" with arrows beneath them). For spacing, we will use **-61**
 5.  Click over on the canvas and start typing: type the word **ADVENTURE** in all caps
