@@ -10,8 +10,8 @@ parent: Workshop Activities
 In this activity we will be creating photo-based text. If you have any questions, please ask!
 
 1.  Download [this image](https://www.pexels.com/photo/green-leaf-trees-908518/){:target="_blank"} for the exercise
-2.  Open the photo in GIMP by going to **File -> Open** in the upper menu. Find where you saved the photo and open it. If your browser auromatically saved it for you, it is probably in your **Downloads** folder. It may pop up with another window asking to **Convert to RGB Working Space**. (_Note: there are certain circumstances where you may need to convert an image to a different color profile, such as when importing from a scanner or camera. <img src="images\act-4\1-newlayer.png" alt="new layer menu" style="float:right;width:360px;margin-bottom:10px;margin-top:10px;">But in this case, it is not necessary._) Click on **Keep**. If you wanted to do this project using one of your own images, it would be best to create a duplicate first, as descibed in previous activities
-3.  Click on **Layer** in the top menu and then **New Layer**. In the dialog box that pops up, in the **Fill With** dropdown menu, choose **White** and then click **OK**. A new white layer will appear covering the image and you will see it listed in the **Layers panel** on the right
+2.  Open the photo in GIMP by going to **File -> Open** in the upper menu. Find where you saved the photo and open it. If your browser automatically saved it for you, it is probably in your **Downloads** folder. It may pop up with another window asking to **Convert to RGB Working Space**. (_Note: there are certain circumstances where you may need to convert an image to a different color profile, such as when importing from a scanner or camera. <img src="images\act-4\1-newlayer.png" alt="new layer menu" style="float:right;width:360px;margin-bottom:10px;margin-top:10px;">But in this case, it is not necessary._) Click on **Keep**. If you wanted to do this project using one of your own images, it would be best to create a duplicate first, as descibed in previous activities
+3.  Click on **Layer** in the top menu and then **New Layer**. In the dialog box that pops up, in the **Fill With** dropdown menu, choose **White** and then click **OK**. A new white layer will appear covering the image and you will see it listed in the **Layers Panel** on the right
 
     <img src="images\act-4\1-newlayer.gif" alt="making new layer" style="width:720px;">
     
@@ -42,7 +42,7 @@ In this activity we will be creating photo-based text. If you have any questions
 
     <img src="images\act-4\10-mask.gif" alt="mask" style="width:720px;">
 
-11. Note: If you only want to keep th lower part of the image with the text, you can use the **Crop Tool** (as described in an earlier activity) with **Fixed** unchecked to crop the lower part of the image
+11. Note: If you only want to keep the lower part of the image with the text, you can use the **Crop Tool** (as described in an earlier activity) with **Fixed** unchecked to crop the lower part of the image
 
     <img src="images\act-4\11-crop.png" alt="cropped result" style="float:right;width:240px;margin-bottom:10px;">
 
