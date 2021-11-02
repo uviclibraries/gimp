@@ -7,7 +7,7 @@ parent: Workshop Activities
 
 # Activity 2: Basic Photo Edits
 
-Let's move on with using GIMP and do some basic edits to a photo. If you have an questions, please ask!
+Let's move on with using GIMP and do some basic edits to a photo. If you have any questions, please ask!
 
 1.  Download this image for the exercise: [woman in red and white shirt standing near white wall photo - Free Blonde Image](https://unsplash.com/photos/xEX_o0haX6c){:target="_blank"}
 
