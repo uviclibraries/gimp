@@ -7,7 +7,7 @@ parent: Workshop Activities
 
 # Activity 3: Two Ways to Change Image Dimensions
 
-In this activity we are going to change the aspect retio of an image without cropping it so that we don't lose any quality. The reason for showing you two ways is so you learn a couple of different useful skills in GIMP while you do it. If you have any questions, please ask!
+In this activity we are going to change the aspect ratio of an image without cropping it so that we don't lose any quality. The reason for showing you two ways is so you learn a couple of different useful skills in GIMP while you do it. If you have any questions, please ask!
 
 1.  Download [this image](https://pixabay.com/illustrations/ice-cream-drawing-pencil-759591/){:target="_blank"} for the exercise
 2.  Open the photo in GIMP by going to **File -> Open** in the upper menu. Find where you saved the photo and open it. If your browser automatically saved it for you, it is probably in your **Downloads** folder. It may pop up with another window asking to **Convert to RGB Working Space**. (_Note: there are certain circumstances where you may need to convert an image to a different color profile, such as when importing from a scanner or camera. But in this case, it is not necessary._) Click on **Keep**
@@ -20,7 +20,7 @@ In this activity we are going to change the aspect retio of an image without cro
 
     <img src="images\act-3\3-duplicate.gif" alt="duplicate demo" style="width:720px;">
     
-    <img src="images\act-3\4-canvassize.png" alt="canvas size menu" style="float:right;width:360px;margin-bottom:10px;">
+    <img src="images\act-3\4-canvassize.png" alt="canvas size menu" style="float:right;width:360px;margin-bottom:10px;margin-left:10px;">
 
 4.  **Changing Canvas Size:**
     -   Click on **Image -> Canvas Size**. This will pop up a window with **Canvas Size** options. For this example, we are going to turn this graphic from a rectangle into a square, so to do that we will simply make sure that the lower number in **Height** pixels is increased to the same number as the **Width** by clicking in the box and typing. Your GIMP may have this number in "Pixels" or in "Inches", feel free to use the drop down to change it. Under **Offset**, click on **Center** so that the original image will be placed in the center of the larger canvas. Then, click **Resize**
