@@ -10,16 +10,18 @@ parent: Workshop Activities
 In this activity we will be changing the colours of objects in a photo (note: this does not work on white or black objects). If you have any questions, please ask!
 
 1.  Download [this image](https://unsplash.com/photos/qSXBBSFfxaM){:target="_blank"} for the exercise
+2.  Open the photo in GIMP by going to **File -> Open** in the upper menu. Find where you saved the photo and open it. If your browser automatically saved it for you, it is probably in your **Downloads** folder. It may pop up with another window asking to **Convert to RGB Working Space**. (_Note: there are certain circumstances where you may need to convert an image to a different color profile, such as when importing from a scanner or camera. But in this case, it is not necessary._) Click on **Keep**. If you wanted to do this project using one of your own images, it would be best to create a duplicate first, as described in previous activities
 
     <img src="images\bonus-act\2-magnify.png" alt="magnify icon" style="float:right;width:90px;">
 
-2.  Open the photo in GIMP by going to **File -> Open** in the upper menu. Find where you saved the photo and open it. If your browser automatically saved it for you, it is probably in your **Downloads** folder. It may pop up with another window asking to **Convert to RGB Working Space**. (_Note: there are certain circumstances where you may need to convert an image to a different color profile, <img src="images\bonus-act\2-another.png" alt="foreground select icon" style="float:right;width:90px;">such as when importing from a scanner or camera. But in this case, it is not necessary._) Click on **Keep**. If you wanted to do this project using one of your own images, it would be best to create a duplicate first, as described in previous activities
 3.  Click on the **Zoom Tool** (magnifying glass) in the left toolbar to zoom in a bit on one of the apple halves so you can see it better
 
-    <img src="images\bonus-act\3-appletrace.gif" alt="tracing apple" style="width:720px;">
+    <img src="images\bonus-act\2-another.png" alt="foreground select icon" style="float:right;width:90px;">
 
 4.  Click on the **Foreground Select Tool** (picture of a person with a square behind it) in the left toolbar. Use it to click a rough selection around one of the apple halves (see example). When you get around to the end of the selection, the end circle of the selection points will turn orange to indicate it is the end join
-
+    
+    <img src="images\bonus-act\3-appletrace.gif" alt="tracing apple" style="width:720px;">
+    
     <img src="images\bonus-act\5-foregroundselect.png" alt="foreground select" style="float:right;width:180px;margin-bottom:10px">
 
 5.  Hit the **Enter** key. This will turn everything outside the selection blue and change your selection tool into a circle. Use this to **paint a selection over the inside of the apple slice** (you can adjust the **Stroke Width** to make it larger in the tool options on the left if needed). Don't worry about getting all the way over to the edge, just stay inside the outlines of the apple. When finished, click the **Select** button in the small **Foreground Select** box in the upper right corner
