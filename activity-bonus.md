@@ -29,9 +29,10 @@ In this activity we will be changing the colours of objects in a photo (note: th
     <img src="images\bonus-act\5-foregroundselect.gif" alt="selecting foreground" style="width:720px;">
 
 6.  You should now have a selection line around the edges of the apple. Click on **colors** in the upper menu and then click on **Hue-Saturation**. This will bring up a dialog box. Increasing **Hue** will bring the colour into the greens and blues, decreasing it will bring the colour into the orange, red, and purple range. You can increase the **Saturation** for more intense colour as well. Click **OK**
-7.  Click **Select** in the top menu and then click **None**, to release the selection around the apple. You can repeat these steps on the other apple slices with different (or the same) colours, as practice
 
     <img src="images\bonus-act\7-selectapple.gif" alt="changing hue" style="width:720px;">
+
+7.  Click **Select** in the top menu and then click **None**, to release the selection around the apple. You can repeat these steps on the other apple slices with different (or the same) colours, as practice
     
     <img src="images\bonus-act\8-blueapple.png" alt="final result" style="float:right;width:180px;">
 
