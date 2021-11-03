@@ -22,7 +22,7 @@ In this activity we will be changing the colours of objects in a photo (note: th
     
     <img src="images\bonus-act\bimp-bonus-1.gif" alt="tracing apple" style="width:720px;">
     
-    <img src="images\bonus-act\5-foregroundselect.png" alt="foreground select" style="float:right;width:180px;margin-bottom:10px">
+    <img src="images\bonus-act\5-foregroundselect-new.png" alt="foreground select" style="float:right;width:180px;margin-bottom:10px">
 
 5.  Hit the **Enter** key. This will turn everything outside the selection blue and change your selection tool into a circle. Use this to **paint a selection over the inside of the apple slice** (you can adjust the **Stroke Width** to make it larger in the tool options on the left if needed). Don't worry about getting all the way over to the edge, just stay inside the outlines of the apple. When finished, click the **Select** button in the small **Foreground Select** box in the upper right corner
 
@@ -34,7 +34,7 @@ In this activity we will be changing the colours of objects in a photo (note: th
 
 7.  Click **Select** in the top menu and then click **None**, to release the selection around the apple. You can repeat these steps on the other apple slices with different (or the same) colours, as practice
     
-    <img src="images\bonus-act\8-blueapple.png" alt="final result" style="float:right;width:180px;">
+    <img src="images\bonus-act\8-blueapple-new.png" alt="final result" style="float:right;width:180px;">
 
 8.  Note: If the selection you chose was not accurate enough in steps 5 and 6, you can use the different mode buttons in **Foreground Select** to practice adding and subtracting from current selection to fine tune
 9.  **Save:** Click on **File -> Save As** in the upper left corner. We are going to save this in the GIMP .xcf format, which is the working format within GIMP that will preserve the layers. Choose where you would like to save the file, and give it a name you will remember. Click **Save**. You can export a JPG or PNG of the image using instructions from Activities #1 or #2
