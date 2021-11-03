@@ -20,7 +20,7 @@ In this activity we will be changing the colours of objects in a photo (note: th
 
 4.  Click on the **Foreground Select Tool** (picture of a person with a square behind it) in the left toolbar. Use it to click a rough selection around one of the apple halves (see example). When you get around to the end of the selection, the end circle of the selection points will turn orange to indicate it is the end join
     
-    <img src="images\bonus-act\bimp-bonus-1.gif" alt="tracing apple" style="width:720px;">
+    <img src="images\bonus-act\gimp-bonus-1.gif" alt="tracing apple" style="width:720px;">
     
     <img src="images\bonus-act\5-foregroundselect-new.png" alt="foreground select" style="float:right;width:180px;margin-bottom:10px">
 
