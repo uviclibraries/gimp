@@ -20,17 +20,17 @@ In this activity we will be changing the colours of objects in a photo (note: th
 
 4.  Click on the **Foreground Select Tool** (picture of a person with a square behind it) in the left toolbar. Use it to click a rough selection around one of the apple halves (see example). When you get around to the end of the selection, the end circle of the selection points will turn orange to indicate it is the end join
     
-    <img src="images\bonus-act\3-appletrace.gif" alt="tracing apple" style="width:720px;">
+    <img src="images\bonus-act\bimp-bonus-1.gif" alt="tracing apple" style="width:720px;">
     
     <img src="images\bonus-act\5-foregroundselect.png" alt="foreground select" style="float:right;width:180px;margin-bottom:10px">
 
 5.  Hit the **Enter** key. This will turn everything outside the selection blue and change your selection tool into a circle. Use this to **paint a selection over the inside of the apple slice** (you can adjust the **Stroke Width** to make it larger in the tool options on the left if needed). Don't worry about getting all the way over to the edge, just stay inside the outlines of the apple. When finished, click the **Select** button in the small **Foreground Select** box in the upper right corner
 
-    <img src="images\bonus-act\5-foregroundselect.gif" alt="selecting foreground" style="width:720px;">
+    <img src="images\bonus-act\gimp-bonus-2.gif" alt="selecting foreground" style="width:720px;">
 
 6.  You should now have a selection line around the edges of the apple. Click on **colors** in the upper menu and then click on **Hue-Saturation**. This will bring up a dialog box. Increasing **Hue** will bring the colour into the greens and blues, decreasing it will bring the colour into the orange, red, and purple range. You can increase the **Saturation** for more intense colour as well. Click **OK**
 
-    <img src="images\bonus-act\7-selectapple.gif" alt="changing hue" style="width:720px;">
+    <img src="images\bonus-act\gimp-bonus-3.gif" alt="changing hue" style="width:720px;">
 
 7.  Click **Select** in the top menu and then click **None**, to release the selection around the apple. You can repeat these steps on the other apple slices with different (or the same) colours, as practice
     
