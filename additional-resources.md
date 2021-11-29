@@ -18,6 +18,15 @@ nav_order: 10
 -   [Inspiration, creators, freebies](https://dribbble.com/){:target="_blank"}
 -   [Colour scheme generator](https://coolors.co){:target="_blank"}
 -   [Design freebies](https://graphicburger.com){:target="_blank"}
+-   Where to get high-resolution Creative Commons licensed photos and clip art? 
+   -   [Unspash](https://unsplash.com){:target="_blank"} (images)
+   -   [Pexels](https://www.pexels.com){:target="_blank"} (images)
+   -   [Create Biology figures](http://BioRender.com){:target="_blank"} (clip art)
+   -   [Full colour clip art with transparent background](https://vectorstock.com){:target="_blank"} (clip art)
+   -   [Free icons to help describe your research story](https://thenounproject.com){:target="_blank"} (clip art)
+   -   [Google Advanced Image Search](https://www.google.ca/advanced_image_search){:target="_blank"} (imeages & clip art)
+   -   [CreativeCommons image search](https://search.creativecommons.org/){:target="_blank"} (images)
+
 
 ## Acknowledgements
 
