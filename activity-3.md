@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3) Change Image Dimensions
+title: 3-Change Image Dimensions
 nav_order: 4
 parent: Workshop Activities
 ---
