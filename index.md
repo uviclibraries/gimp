@@ -15,9 +15,7 @@ nav_order: 1
 
 
 
-[GIMP](https://www.gimp.org/){:target="_blank"} Desribe the tool and how it can be used. This is an example of the description for Taguette:
-
-[Taguette](https://taguette.org/) GIMP is free to download and use open source software provides the tools needed for high quality image manipulation similar to what Photoshop provides. GIMP can also be used for producing icons, graphical design elements, and art for userinterface components and mockups. GIMP gives you the power and flexibility to transform images into truly unique creations.
+[GIMP](https://www.gimp.org/){:target="_blank"} is free to download and use open source software provides the tools needed for high quality image manipulation similar to what Photoshop provides. GIMP can also be used for producing icons, graphical design elements, and art for userinterface components and mockups. GIMP gives you the power and flexibility to transform images into truly unique creations.
 
 ## Learning objectives
 
