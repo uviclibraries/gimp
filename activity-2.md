@@ -25,9 +25,10 @@ Let's move on with using GIMP and do some basic edits to a photo. If you have an
 
 4.  **Converting to Black and White:**
     -   Click on **Colors** in the top menu (see right), then **Desaturate**, and then **Desaturate...**. A small window will pop up. Make sure **Luminance** is selected as the **Mode**. Click **OK**
+        <img src="images\act-2\4-desaturate.gif" alt="desaturate demo" style="width:720px;">
+        
     -   Next, click on **Colors** in the top menu, then **Desaturate**, and then **Mono Mixer**. A small window will pop up. You can drag up or down each of these channels to increase or decrease each colour channel, which will impact their intensity in the image. (This can be particularly useful for photos with lots of the sky in them.) Click **OK**
 
-        <img src="images\act-2\4-desaturate.gif" alt="desaturate demo" style="width:720px;">
         <img src="images\act-2\4-monomixer.gif" alt="monomixer" style="width:720px;">
 
     -   Click on **Colors** in the top menu again, and then click on **Curves**. This will bring up a small window. Click on the diagonal line in three places to **create three evenly spaced round handles** (see GIF animation below). Once the handles are there, you can grab them with your mouse and **drag them up or down** to make adjustments in your photo. The wave form in the back shows the lights and darks in your image. To the left of the waveform are the darks and the right side displays the lights. In the example GIF animation, the diagonal Curve line has been dragged to give an upwards bump to the brights and a downwards bump to the darks, which is a way to slightly increase the contrast of the image, if needed. Click **OK**
