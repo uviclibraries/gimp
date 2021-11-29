@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2) Basic Photo Edits
+title: 2-Basic Photo Edits
 nav_order: 3
 parent: Workshop Activities
 ---
