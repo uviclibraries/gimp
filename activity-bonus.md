@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bonus) Changing Object Colors
+title: Bonus-Changing Object Colors
 nav_order: 6
 parent: Workshop Activities
 ---
