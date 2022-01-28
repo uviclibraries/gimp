@@ -5,7 +5,7 @@ nav_order: 2
 parent: Workshop Activities
 ---
 
-# Activity 1: Cropping and Saving Photos for Online Use 
+# Activity 1: Cropping and Saving Photos for Online Use
 
 Let's start with using GIMP to crop and export a smaller version of a photo. If you have any questions, please ask!
 
