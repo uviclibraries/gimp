@@ -10,6 +10,8 @@ nav_order: 10
 -   Tutorial: [How to wrap text around a circle](https://www.youtube.com/watch?v=_Wq_A-jkWQE){:target="_blank"}
 -   A list of [20 tutorials for GIMP](https://daviesmediadesign.com/20-gimp-tutorials-for-beginners-in-2020/){:target="_blank"}
 -   [How to remove someone/something from a photo](https://www.youtube.com/watch?v=J61ExqvNcBQ){:target="_blank"} (and install a plugin)
+-   [Creating Centre Guides](https://www.youtube.com/watch?v=zabuC89Beio){:target="_blank"}
+-   [Using Guides to Create Straight Lines](https://www.youtube.com/watch?v=bcYSwE8NDgg){:target="_blank"}
 -   More free (or inexpensive) [alternatives to Photoshop](https://skylum.com/blog/best-free-photoshop-alternatives){:target="_blank"}
 -   A web-based platform called [Canva](https://www.canva.com){:target="_blank"} for making posters, flyers, brochures, logos and more (we have an introductory workshop for this, too)
 -   Professional quality, diverse, and inclusive [resource for free stock photography](https://www.pexels.com){:target="_blank"}
@@ -18,9 +20,7 @@ nav_order: 10
 -   [Inspiration, creators, freebies](https://dribbble.com/){:target="_blank"}
 -   [Colour scheme generator](https://coolors.co){:target="_blank"}
 -   [Design freebies](https://graphicburger.com){:target="_blank"}
--   Where to get high-resolution Creative Commons licensed photos and clip art? 
-   -   [Unspash](https://unsplash.com){:target="_blank"} (images)
-   -   [Pexels](https://www.pexels.com){:target="_blank"} (images)
+-   More resources for Creative Commons licensed photos and clip art? 
    -   [Create Biology figures](http://BioRender.com){:target="_blank"} (clip art)
    -   [Full colour clip art with transparent background](https://vectorstock.com){:target="_blank"} (clip art)
    -   [Free icons to help describe your research story](https://thenounproject.com){:target="_blank"} (clip art)
