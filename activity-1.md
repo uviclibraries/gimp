@@ -5,24 +5,7 @@ nav_order: 2
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
-<!DOCTYPE html>
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-.button 
-{
-  border: 1px solid black;
-  color: black;
-  padding: 2px 1px;
-  font-size: 12px;
-  cursor: pointer;
-} 
-.default {background-color: #e7e7e7; color: black;} /* Gray */ 
-.default:hover {background: #ddd;}
-</style>
-</head>
-<body>
+
 
 # Activity 1: Cropping and Saving Photos for Online Use
 
@@ -38,7 +21,7 @@ Let's start with using GIMP to crop and export a smaller version of a photo. If 
 
 Find where you saved the photo and open it. If your browser automatically saved it for you, it is probably in your **Downloads** folder. It may pop up with another window asking to **Convert to RGB Working Space**. (Note: there are certain circumstances you may need to convert an image to a differentcolor profile, such as when importing from a scanner or camera. But in this case, it is not necessary.) Click on **Keep**
                         
-<button class="button default" onclick="toggle('gif1')"> Show / Hide Animation</button>
+<button onclick="toggle('gif1')"> Show / Hide Animation</button>
     <div id="gif1">
 
 <img src="images\act-1\2-fileopen.gif" alt="open file demo" style="width:720px;">
@@ -66,7 +49,7 @@ function myFunction() {
  
  Make sure you are working in the one you plan to resize. It's best to close the original to avoid confusion by clicking on the little "X" next to the thumbnail
         
-<button class= "button default" onclick="toggle('gif2')">Show / Hide Animation</button>
+<button  onclick="toggle('gif2')">Show / Hide Animation</button>
     <div id ="gif2">
     <img src="images\act-1\3-duplicate.gif" alt="duplicate demo" style="width:720px;">
     </div>
@@ -94,7 +77,7 @@ Next to the input field there are the Portrait and Landscape option buttons to c
 -   Note: If you uncheck **Fixed**, you can drag over the photo to freely crop where you want. You can use the mouse to drag the crop window up and down to reposition it and drag the corners to resize the crop. The darker areas outside the window will be cropped out. If you click outside the crop window, it will start a new crop window
 -   When satisfied with the placement of the crop window, **hit the Enter key** on your keyboard to apply the crop
     
-<button class= "button default"  onclick="toggle('gif3')">Show / Hide Animation</button>
+<button  onclick="toggle('gif3')">Show / Hide Animation</button>
     <div id="gif3">
     <img src="images\act-1\4-crop.gif" alt="crop demo" style="width:720px;">
     </div>
@@ -115,7 +98,7 @@ function myFunction() {
 -   (Before we begin, go to **File -> Revert** or **Edit -> Undo** to reset this image back to a square.) Click on **Image -> Scale Image** in the top menu. This will bring up a dialog box with **Scale Image** options
  -   Set **Width** to **700 pixels**. This will automatically change the **Width** to preserve the aspect ratio. Click the **Scale** button to complete it
 
-<button class= "button default" onclick="toggle('gif4')">Show / Hide Animation</button>
+<button  onclick="toggle('gif4')">Show / Hide Animation</button>
         <div id="gif4">
         <img src="images\act-1\5-scaleimage.gif" alt="scale image demo" style="width:720px;">
         </div>
@@ -131,7 +114,7 @@ function myFunction() {
 </script>     
  -   The image is now showing as tiny on the screen. To view it larger, go to **View -> Zoom -> 1:1 (100%)**. This will show you the 100% view of the image
 
-<button class= "button default"  onclick="toggle('gif5')">Show / Hide Animation</button>
+<button onclick="toggle('gif5')">Show / Hide Animation</button>
         <div id="gif5">
         <img src="images\act-1\5-zoom.gif" alt="zoom demo" style="width:720px;">
         </div>
