@@ -25,18 +25,7 @@ Find where you saved the photo and open it. If your browser automatically saved 
     <div id="gif1">
 
 <img src="images\act-1\2-fileopen.gif" alt="open file demo" style="width:720px;">
-</div>
-
-<script>
-function myFunction() {
-  var x = document.getElementById("gif1");
-  if (x.style.display === "none") {
-    x.style.display = "block";
-  } else {
-    x.style.display = "none";
-  }
-}
-</script>     
+</div>  
 
 <img src="images\act-1\3-imageduplicate.png" alt="image duplicate" style="float:right;width:320px;">
 
@@ -53,16 +42,8 @@ function myFunction() {
     <div id ="gif2">
     <img src="images\act-1\3-duplicate.gif" alt="duplicate demo" style="width:720px;">
     </div>
-<script>
-function myFunction() {
-  var x = document.getElementById("gif2");
-  if (x.style.display === "none") {
-    x.style.display = "block";
-  } else {
-    x.style.display = "none";
-  }
-}
-</script> 
+
+
 <img src="images\act-1\4-croptool.png" alt="crop tool" style="float:right;width:120px;">
 
 4.  **Crop Tool:**
@@ -80,17 +61,7 @@ Next to the input field there are the Portrait and Landscape option buttons to c
 <button  onclick="toggle('gif3')">Show / Hide Animation</button>
     <div id="gif3">
     <img src="images\act-1\4-crop.gif" alt="crop demo" style="width:720px;">
-    </div>
-<script>
-function myFunction() {
-  var x = document.getElementById("gif3");
-  if (x.style.display === "none") {
-    x.style.display = "block";
-  } else {
-    x.style.display = "none";
-  }
-}
-</script>     
+    </div>    
 
 <img src="images\act-1\5-scaleimage.png" alt="scale image" style="float:right;width:360px;">
 
@@ -102,33 +73,14 @@ function myFunction() {
         <div id="gif4">
         <img src="images\act-1\5-scaleimage.gif" alt="scale image demo" style="width:720px;">
         </div>
-<script>
-function myFunction() {
-  var x = document.getElementById("gif4");
-  if (x.style.display === "none") {
-    x.style.display = "block";
-  } else {
-    x.style.display = "none";
-  }
-}
-</script>     
+     
  -   The image is now showing as tiny on the screen. To view it larger, go to **View -> Zoom -> 1:1 (100%)**. This will show you the 100% view of the image
 
 <button onclick="toggle('gif5')">Show / Hide Animation</button>
         <div id="gif5">
         <img src="images\act-1\5-zoom.gif" alt="zoom demo" style="width:720px;">
         </div>
-
-<script>
-function myFunction() {
-  var x = document.getElementById("gif5");
-  if (x.style.display === "none") {
-    x.style.display = "block";
-  } else {
-    x.style.display = "none";
-  }
-}
-</script> 
+ 
 
  <img src="images\act-1\5-crop.png" alt="crop" style="float:right;width:180px;">
 
@@ -145,16 +97,7 @@ function myFunction() {
     <img src="images\act-1\5-crop.gif" alt="crop demo" style="width:720px;">
     </div>
     <img src="images\act-1\6-save.png" alt="save" style="float:right;width:180px;">
-<script>
-function myFunction() {
-  var x = document.getElementById("gif6");
-  if (x.style.display === "none") {
-    x.style.display = "block";
-  } else {
-    x.style.display = "none";
-  }
-}
-</script>    
+   
 
 6.  **Save:** Since we already have the original large version of this file and haven't created any editing layers, we don't need to save any extra versions of this. We can export it as a new, smaller image for our purposes
     
@@ -165,7 +108,15 @@ function myFunction() {
 
 <img src="images\act-1\6-mystery.png" alt="mysterious" style="width:720px;">
 
-</body>
-</html>
+<script>
+function myFunction() {
+  var x = document.getElementById("input");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+</script> 
 
 [NEXT STEP: Activity 2](activity-2.html){: .btn .btn-blue }
