@@ -22,14 +22,14 @@ Let's start with using GIMP to crop and export a smaller version of a photo. If 
 Find where you saved the photo and open it. If your browser automatically saved it for you, it is probably in your **Downloads** folder. It may pop up with another window asking to **Convert to RGB Working Space**. (Note: there are certain circumstances you may need to convert an image to a differentcolor profile, such as when importing from a scanner or camera. But in this case, it is not necessary.) Click on **Keep**
                         
 <button onclick="toggle('gif1')"> Show / Hide Animation</button>
-    <div id="gif1">
+<div id="gif1">
 
 <img src="images\act-1\2-fileopen.gif" alt="open file demo" style="width:720px;">
 </div>  
 
+<img src="images\act-1\3-imageduplicate.png" alt="image duplicate" style="float:right;width:320px;">
 
 3.  We are first going to make a copy of this image before we edit it so that we keep a full size copy of our original. To do this, click on **Image** in the top menu and then click on **Duplicate**.
-<img src="images\act-1\3-imageduplicate.png" alt="image duplicate" style="float:right;width:320px;">
 
  <img src="images\act-3\3-duplicate.png" alt="duplicate" style="float:right;width:240px;margin-bottom:5px;">
  
@@ -40,9 +40,9 @@ Find where you saved the photo and open it. If your browser automatically saved 
  Make sure you are working in the one you plan to resize. It's best to close the original to avoid confusion by clicking on the little "X" next to the thumbnail
         
 <button  onclick="toggle('gif2')">Show / Hide Animation</button>
-    <div id ="gif2">
-    <img src="images\act-1\3-duplicate.gif" alt="duplicate demo" style="width:720px;">
-    </div>
+<div id ="gif2">
+<img src="images\act-1\3-duplicate.gif" alt="duplicate demo" style="width:720px;">
+</div>
 
 
 <img src="images\act-1\4-croptool.png" alt="crop tool" style="float:right;width:120px;">
@@ -60,9 +60,9 @@ Next to the input field there are the Portrait and Landscape option buttons to c
 -   When satisfied with the placement of the crop window, **hit the Enter key** on your keyboard to apply the crop
     
 <button  onclick="toggle('gif3')">Show / Hide Animation</button>
-    <div id="gif3">
-    <img src="images\act-1\4-crop.gif" alt="crop demo" style="width:720px;">
-    </div>    
+<div id="gif3">
+<img src="images\act-1\4-crop.gif" alt="crop demo" style="width:720px;">
+</div>    
 
 <img src="images\act-1\5-scaleimage.png" alt="scale image" style="float:right;width:360px;">
 
@@ -71,19 +71,19 @@ Next to the input field there are the Portrait and Landscape option buttons to c
  -   Set **Width** to **700 pixels**. This will automatically change the **Width** to preserve the aspect ratio. Click the **Scale** button to complete it
 
 <button  onclick="toggle('gif4')">Show / Hide Animation</button>
-        <div id="gif4">
-        <img src="images\act-1\5-scaleimage.gif" alt="scale image demo" style="width:720px;">
-        </div>
+  <div id="gif4">
+  <img src="images\act-1\5-scaleimage.gif" alt="scale image demo" style="width:720px;">
+  </div>
      
  -   The image is now showing as tiny on the screen. To view it larger, go to **View -> Zoom -> 1:1 (100%)**. This will show you the 100% view of the image
 
 <button onclick="toggle('gif5')">Show / Hide Animation</button>
-        <div id="gif5">
-        <img src="images\act-1\5-zoom.gif" alt="zoom demo" style="width:720px;">
-        </div>
+<div id="gif5">
+<img src="images\act-1\5-zoom.gif" alt="zoom demo" style="width:720px;">
+</div>
  
 
- <img src="images\act-1\5-crop.png" alt="crop" style="float:right;width:180px;">
+<img src="images\act-1\5-crop.png" alt="crop" style="float:right;width:180px;">
 
 -   Next, this image is 700 by 700, which isn't yet the size that was needed. We will need to use **Crop** to cut it down to 700 by 460. Click on the **Crop Tool** in the left hand toolbar
  -   Change the **Fixed** dropdown to **Width**, then set it to **700** in the field below it (see screenshot to the right). Make sure **Fixed** is checked with an X
@@ -94,10 +94,10 @@ Next to the input field there are the Portrait and Landscape option buttons to c
 -   As in the earlier instructions, you can click inside the crop window to move it around and adjust the position and then hit the **Enter** key when ready to finish the crop
 
 <button class= "button default"  onclick="toggle('gif6')">Show / Hide Animation</button>
-    <div id="gif6">
-    <img src="images\act-1\5-crop.gif" alt="crop demo" style="width:720px;">
-    </div>
-    <img src="images\act-1\6-save.png" alt="save" style="float:right;width:180px;">
+<div id="gif6">
+<img src="images\act-1\5-crop.gif" alt="crop demo" style="width:720px;">
+</div>
+<img src="images\act-1\6-save.png" alt="save" style="float:right;width:180px;">
    
 
 6.  **Save:** Since we already have the original large version of this file and haven't created any editing layers, we don't need to save any extra versions of this. We can export it as a new, smaller image for our purposes
