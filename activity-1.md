@@ -20,28 +20,31 @@ Let's start with using GIMP to crop and export a smaller version of a photo. If 
 
 Find where you saved the photo and open it. If your browser automatically saved it for you, it is probably in your **Downloads** folder. It may pop up with another window asking to **Convert to RGB Working Space**. (Note: there are certain circumstances you may need to convert an image to a differentcolor profile, such as when importing from a scanner or camera. But in this case, it is not necessary.) Click on **Keep**
                         
-    <button onclick="toggle('gif1')">Show / Hide Animation</button>
+<button onclick="toggle('gif1')">Show / Hide Animation</button>
     <div id="gif1">
 
-    <img src="images\act-1\2-fileopen.gif" alt="open file demo" style="width:720px;">
-    </div>
+<img src="images\act-1\2-fileopen.gif" alt="open file demo" style="width:720px;">
+</div>
     
 
     <img src="images\act-1\3-imageduplicate.png" alt="image duplicate" style="float:right;width:320px;">
 
-3.  We are first going to make a copy of this image before we edit it so that we keep a full size copy of our original. To do this, click on **Image** in the top menu and then click on **Duplicate**. <img src="images\act-3\3-duplicate.png" alt="duplicate" style="float:right;width:240px;margin-bottom:5px;">This will create a new copy of the image. You will now see above your image that you have two tabs open in GIMP with the thumbnails of the two files. If you click on the thumbnails, a little "X" appears next to the active one and at the top of the software the filename appears. The new copy will be called **[Untitled]** until you save it with a new name. <img src="images\act-3\3-untitled.png" alt="untitled" style="float:right;width:180px;">Make sure you are working in the one you plan to resize. It's best to close the original to avoid confusion by clicking on the little "X" next to the thumbnail
+3.  We are first going to make a copy of this image before we edit it so that we keep a full size copy of our original. To do this, click on **Image** in the top menu and then click on **Duplicate**.
+ <img src="images\act-3\3-duplicate.png" alt="duplicate" style="float:right;width:240px;margin-bottom:5px;">
+ 
+ This will create a new copy of the image. You will now see above your image that you have two tabs open in GIMP with the thumbnails of the two files. If you click on the thumbnails, a little "X" appears next to the active one and at the top of the software the filename appears. The new copy will be called **[Untitled]** until you save it with a new name. <img src="images\act-3\3-untitled.png" alt="untitled" style="float:right;width:180px;">Make sure you are working in the one you plan to resize. It's best to close the original to avoid confusion by clicking on the little "X" next to the thumbnail
             
-    <button onclick="toggle('gif2')">Show / Hide Animation</button>
+<button onclick="toggle('gif2')">Show / Hide Animation</button>
     <div id ="gif2">
     <img src="images\act-1\3-duplicate.gif" alt="duplicate demo" style="width:720px;">
     </div>
 
-    <img src="images\act-1\4-croptool.png" alt="crop tool" style="float:right;width:120px;">
+<img src="images\act-1\4-croptool.png" alt="crop tool" style="float:right;width:120px;">
 
 4.  **Crop Tool:**
     -   Click on the **Crop Tool** in the left toolbar. The Crop Tool options will appear below the toolbar on the left. Click to select **Fixed Aspect Ratio**. In the field below it, enter 4:6 to change the aspect ratio to the same as that of a 4x6 photo. <img src="images\act-1\4-aspectratio.png" alt="aspect ratio" style="float:right;width:180px;">Next to the input field there are the Portrait and Landscape option buttons to change the orientation of the crop
     
-        <img src="images\act-1\4-cropapply.png" alt="apply the crop" style="float:right;width:180px;">
+    <img src="images\act-1\4-cropapply.png" alt="apply the crop" style="float:right;width:180px;">
     
     -   Note: If you uncheck **Fixed**, you can drag over the photo to freely crop where you want. You can use the mouse to drag the crop window up and down to reposition it and drag the corners to resize the crop. The darker areas outside the window will be cropped out. If you click outside the crop window, it will start a new crop window
     -   When satisfied with the placement of the crop window, **hit the Enter key** on your keyboard to apply the crop
@@ -99,6 +102,7 @@ Find where you saved the photo and open it. If your browser automatically saved 
             x.style.display = "none";
         }
     }
-</script>
+</script> 
+
 
 [NEXT STEP: Activity 2](activity-2.html){: .btn .btn-blue }
