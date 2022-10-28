@@ -5,15 +5,24 @@ nav_order: 2
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
-<script>
-.button {
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.button 
+{
   border: none;
-  color: white;
-  padding: 14px 28px;
-  font-size: 16px;
+  color: black;
+  padding: 2px 10px;
+  font-size: 12px;
   cursor: pointer;
 } 
-</script> 
+.default {background-color: #e7e7e7; color: black;} /* Gray */ 
+.default:hover {background: #ddd;}
+</style>
+</head>
+<body>
+
 # Activity 1: Cropping and Saving Photos for Online Use
 
 Let's start with using GIMP to crop and export a smaller version of a photo. If you have any questions, please ask!
@@ -28,7 +37,7 @@ Let's start with using GIMP to crop and export a smaller version of a photo. If 
 
 Find where you saved the photo and open it. If your browser automatically saved it for you, it is probably in your **Downloads** folder. It may pop up with another window asking to **Convert to RGB Working Space**. (Note: there are certain circumstances you may need to convert an image to a differentcolor profile, such as when importing from a scanner or camera. But in this case, it is not necessary.) Click on **Keep**
                         
-<button onclick="toggle('gif1')">Show / Hide Animation</button>
+<button class="button default" onclick="toggle('gif1')"> Show / Hide Animation</button>
     <div id="gif1">
 
 <img src="images\act-1\2-fileopen.gif" alt="open file demo" style="width:720px;">
