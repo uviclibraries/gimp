@@ -182,6 +182,7 @@ function myFunction() {
 
 <img src="images\act-1\6-mystery.png" alt="mysterious" style="width:720px;">
 
-
+</body>
+</html>
 
 [NEXT STEP: Activity 2](activity-2.html){: .btn .btn-blue }
