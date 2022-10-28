@@ -5,7 +5,15 @@ nav_order: 2
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
-
+<script>
+.button {
+  border: none;
+  color: white;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+} 
+</script> 
 # Activity 1: Cropping and Saving Photos for Online Use
 
 Let's start with using GIMP to crop and export a smaller version of a photo. If you have any questions, please ask!
@@ -25,6 +33,7 @@ Find where you saved the photo and open it. If your browser automatically saved 
 
 <img src="images\act-1\2-fileopen.gif" alt="open file demo" style="width:720px;">
 </div>
+
 <script>
 function myFunction() {
   var x = document.getElementById("gif1");
@@ -43,10 +52,10 @@ function myFunction() {
  
  This will create a new copy of the image. You will now see above your image that you have two tabs open in GIMP with the thumbnails of the two files. If you click on the thumbnails, a little "X" appears next to the active one and at the top of the software the filename appears. The new copy will be called **[Untitled]** until you save it with a new name. 
 
- <img src="images\act-3\3-untitled.png" alt="untitled" style="float:right;width:180px;">
+<img src="images\act-3\3-untitled.png" alt="untitled" style="float:right;width:180px;">
  
  Make sure you are working in the one you plan to resize. It's best to close the original to avoid confusion by clicking on the little "X" next to the thumbnail
-            
+        
 <button onclick="toggle('gif2')">Show / Hide Animation</button>
     <div id ="gif2">
     <img src="images\act-1\3-duplicate.gif" alt="duplicate demo" style="width:720px;">
