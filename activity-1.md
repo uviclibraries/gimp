@@ -109,8 +109,9 @@ Next to the input field there are the Portrait and Landscape option buttons to c
 <img src="images\act-1\6-mystery.png" alt="mysterious" style="width:720px;">
 
 <script>
-function myFunction() {
-  var x = document.getElementById("input");
+function toggle(input) 
+{
+  var x = document.getElementById(input);
   if (x.style.display === "none") {
     x.style.display = "block";
   } else {
