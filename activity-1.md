@@ -23,7 +23,6 @@ Find where you saved the photo and open it. If your browser automatically saved 
                         
 <button onclick="toggle('gif1')"> Show / Hide Animation</button>
 <div id="gif1">
-
 <img src="images\act-1\2-fileopen.gif" alt="open file demo" style="width:720px;">
 </div>  
 
