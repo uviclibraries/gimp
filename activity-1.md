@@ -22,9 +22,9 @@ Let's start with using GIMP to crop and export a smaller version of a photo. If 
 Find where you saved the photo and open it. If your browser automatically saved it for you, it is probably in your **Downloads** folder. It may pop up with another window asking to **Convert to RGB Working Space**. (Note: there are certain circumstances you may need to convert an image to a differentcolor profile, such as when importing from a scanner or camera. But in this case, it is not necessary.) Click on **Keep**
                         
 <button onclick="toggle('gif1')"> Show / Hide Animation</button>
-<div id="gif1">
-<img src="images\act-1\2-fileopen.gif" alt="open file demo" style="width:720px;">
-</div>  
+  <div id="gif1">
+  <img src="images\act-1\2-fileopen.gif" alt="open file demo" style="width:720px;">
+  </div>  
 
 <img src="images\act-1\3-imageduplicate.png" alt="image duplicate" style="float:right;width:320px;">
 
@@ -39,9 +39,9 @@ Find where you saved the photo and open it. If your browser automatically saved 
  Make sure you are working in the one you plan to resize. It's best to close the original to avoid confusion by clicking on the little "X" next to the thumbnail
         
 <button  onclick="toggle('gif2')">Show / Hide Animation</button>
-<div id ="gif2">
-<img src="images\act-1\3-duplicate.gif" alt="duplicate demo" style="width:720px;">
-</div>
+ <div id ="gif2">
+ <img src="images\act-1\3-duplicate.gif" alt="duplicate demo" style="width:720px;">
+ </div>
 
 
 <img src="images\act-1\4-croptool.png" alt="crop tool" style="float:right;width:120px;">
@@ -59,9 +59,9 @@ Next to the input field there are the Portrait and Landscape option buttons to c
 -   When satisfied with the placement of the crop window, **hit the Enter key** on your keyboard to apply the crop
     
 <button  onclick="toggle('gif3')">Show / Hide Animation</button>
-<div id="gif3">
-<img src="images\act-1\4-crop.gif" alt="crop demo" style="width:720px;">
-</div>    
+  <div id="gif3">
+  <img src="images\act-1\4-crop.gif" alt="crop demo" style="width:720px;">
+  </div>    
 
 <img src="images\act-1\5-scaleimage.png" alt="scale image" style="float:right;width:360px;">
 
@@ -77,9 +77,9 @@ Next to the input field there are the Portrait and Landscape option buttons to c
  -   The image is now showing as tiny on the screen. To view it larger, go to **View -> Zoom -> 1:1 (100%)**. This will show you the 100% view of the image
 
 <button onclick="toggle('gif5')">Show / Hide Animation</button>
-<div id="gif5">
-<img src="images\act-1\5-zoom.gif" alt="zoom demo" style="width:720px;">
-</div>
+ <div id="gif5">
+ <img src="images\act-1\5-zoom.gif" alt="zoom demo" style="width:720px;">
+ </div>
  
 
 <img src="images\act-1\5-crop.png" alt="crop" style="float:right;width:180px;">
@@ -93,9 +93,9 @@ Next to the input field there are the Portrait and Landscape option buttons to c
 -   As in the earlier instructions, you can click inside the crop window to move it around and adjust the position and then hit the **Enter** key when ready to finish the crop
 
 <button onclick="toggle('gif6')">Show / Hide Animation</button>
-<div id="gif6">
-<img src="images\act-1\5-crop.gif" alt="crop demo" style="width:720px;">
-</div>
+ <div id="gif6">
+ <img src="images\act-1\5-crop.gif" alt="crop demo" style="width:720px;">
+ </div>
 <img src="images\act-1\6-save.png" alt="save" style="float:right;width:180px;">
    
 
@@ -108,16 +108,16 @@ Next to the input field there are the Portrait and Landscape option buttons to c
 
 <img src="images\act-1\6-mystery.png" alt="mysterious" style="width:720px;">
 
-<script>
+<script>  
 
-function toggle(input) {
-  var x = document.getElementById(input);
-  if (x.style.display === "none") {
-    x.style.display = "block";
-  } else {
-    x.style.display = "none";
-  }
-}
-</script> 
+    function toggle(input) {
+        var x = document.getElementById(input);
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+</script>
 
 [NEXT STEP: Activity 2](activity-2.html){: .btn .btn-blue }
