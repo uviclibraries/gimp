@@ -92,7 +92,7 @@ Next to the input field there are the Portrait and Landscape option buttons to c
 -   Drag the crop window over the image. You'll notice that it stays the same width but drags over the image in the other direction to your chosen size and the number in the **Crop** information under **Size** changes as you drag. Keep dragging until you hit the target number. In this example, it is **460**. Release the mouse button
 -   As in the earlier instructions, you can click inside the crop window to move it around and adjust the position and then hit the **Enter** key when ready to finish the crop
 
-<button class= "button default"  onclick="toggle('gif6')">Show / Hide Animation</button>
+<button onclick="toggle('gif6')">Show / Hide Animation</button>
 <div id="gif6">
 <img src="images\act-1\5-crop.gif" alt="crop demo" style="width:720px;">
 </div>
@@ -109,8 +109,8 @@ Next to the input field there are the Portrait and Landscape option buttons to c
 <img src="images\act-1\6-mystery.png" alt="mysterious" style="width:720px;">
 
 <script>
-function toggle(input) 
-{
+
+function toggle(input) {
   var x = document.getElementById(input);
   if (x.style.display === "none") {
     x.style.display = "block";
