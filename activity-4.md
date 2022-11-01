@@ -3,6 +3,7 @@ layout: default
 title: 4-Creating Photo Text
 nav_order: 5
 parent: Workshop Activities
+customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 
 # Activity 4: Create Photo Text
@@ -13,16 +14,19 @@ In this activity we will be creating photo-based text. If you have any questions
 2.  Open the photo in GIMP by going to **File -> Open** in the upper menu. Find where you saved the photo and open it. If your browser automatically saved it for you, it is probably in your **Downloads** folder. It may pop up with another window asking to **Convert to RGB Working Space**. (_Note: there are certain circumstances where you may need to convert an image to a different color profile, such as when importing from a scanner or camera. <img src="images\act-4\1-newlayer.png" alt="new layer menu" style="float:right;width:360px;margin-bottom:10px;margin-top:10px;">But in this case, it is not necessary._) Click on **Keep**. If you wanted to do this project using one of your own images, it would be best to create a duplicate first, as descibed in previous activities
 3.  Click on **Layer** in the top menu and then **New Layer**. In the dialog box that pops up, in the **Fill With** dropdown menu, choose **White** and then click **OK**. A new white layer will appear covering the image and you will see it listed in the **Layers Panel** on the right
 
+<button onclick="toggle('gif1')">Show/Hide Animation</button>
+    <div id="gif1">
     <img src="images\act-4\1-newlayer.gif" alt="making new layer" style="width:720px;">
-    
+    </div>
     <img src="images\act-4\4-morefont.png" alt="font menu" style="float:right;width:180px;margin-left:10px;">
     <img src="images\act-4\4-font.png" alt="font icon" style="float:right;width:90px;margin-left:10px;">
 
 4.  Next, click on the **Text Tool** ("A" icon) in the left toolbar. This will bring up the tool's options below the left toolbar. We will be using the font **Arial Black, Heavy (or Arial Heavy)**. To change the font, **click in the font name field** and start typing **Arial**, and a list of fonts will appear. Select **Arial Black, Heavy**. Below that, enter **Size 504px**, color black, and then lower there is an option for spacing between letters (icon with an "a b" with arrows beneath them). For spacing, we will use **-61**
 5.  Click over on the canvas and start typing: type the word **ADVENTURE** in all caps
-
+    <button onclick="toggle('gif2')">Show/Hide Animation</button>
+    <div id="gif2">
     <img src="images\act-4\4-text.gif" alt="adding text demo" style="width:720px;">
-
+    </div>
 6.  In the **Layers Panel** on the right, **click on the white layer** to make it the active layer. Just above the layer names there is an option to change the **Opacity**. Decrease it to about 35 so that you are able to see the image beneath it
 
     <img src="images\act-4\6-opacity.gif" alt="opacity" style="width:720px;">
@@ -48,4 +52,18 @@ In this activity we will be creating photo-based text. If you have any questions
 
 12. **Save:** Click on **File -> Save As** in the upper left corner. We are going to save this in the GIMP .xcf format, which is the working format within GIMP that will preserve the layers. <img src="images\act-4\12-result.png" alt="final result" style="float:right;width:240px;">Choose where you would like to save the file, and give it a name you will remember. Click **Save**. You can export a JPG or PNG of the image using instructions from Activities #1 or #2
 
-<br><br><br><br>[NEXT STEP: Bonus Activity](activity-bonus.html){: .btn .btn-blue }
+<script>  
+
+    function toggle(input) {
+        var x = document.getElementById(input);
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+</script>
+
+<br><br><br><br>
+
+[NEXT STEP: Bonus Activity](activity-bonus.html){: .btn .btn-blue }

@@ -30,21 +30,29 @@ In this activity we are going to change the aspect ratio of an image without cro
 4.  **Changing Canvas Size:**
     -   Click on **Image -> Canvas Size**. This will pop up a window with **Canvas Size** options. For this example, we are going to turn this graphic from a rectangle into a square, so to do that we will simply make sure that the lower number in **Height** pixels is increased to the same number as the **Width** by clicking in the box and typing. Your GIMP may have this number in "Pixels" or in "Inches", feel free to use the drop down to change it. Under **Offset**, click on **Center** so that the original image will be placed in the center of the larger canvas. Then, click **Resize**
     
-        <img src="images\act-3\4-canvassize.gif" alt="canvas size demo" style="width:720px;">
-        
-        <img src="images\act-3\4-dropper.png" alt="dropper icon" style="float:right;width:90px;">
+    <button onclick="toggle('gif3')">Show/Hide Animation</button>
+    <div id="gif3">
+    <img src="images\act-3\4-canvassize.gif" alt="canvas size demo" style="width:720px;">
+    </div>   
+    <img src="images\act-3\4-dropper.png" alt="dropper icon" style="float:right;width:90px;">
     
     -   The image will now have a bigger canvas size, but the stretched canvas will have a blank, checkered background. To match the background color, click on the **Color Picker** tool (eyedropper icon) in the left toolbar. Then, use the tool to click on the yellow background of the image. This will change the foreground color in the swatches and make that exact yellow the new selected colour (see below for a before and after)
     
-        <img src="images\act-3\4-selectedcolorbefore.png" alt="before color select" style="float:left;width:180px;height:100px;margin-right:10px;margin-bottom:10px;">
-        <img src="images\act-3\4-selectedcolor.png" alt="after color select" style="float:left;width:180px;height:100px">
+    <img src="images\act-3\4-selectedcolorbefore.png" alt="before color select" style="float:left;width:180px;height:100px;margin-right:10px;margin-bottom:10px;">
+    <img src="images\act-3\4-selectedcolor.png" alt="after color select" style="float:left;width:180px;height:100px">
         
-        <img src="images\act-3\4-dropper.gif" alt="using dropper" style="width:720px;">
-    
+    <button onclick="toggle('gif4')">Show/Hide Animation</button>
+    <div id="gif4">
+    <img src="images\act-3\4-dropper.gif" alt="using dropper" style="width:720px;">
+    </div>
+
     -   Next we will add a layer behind the image. Click on **Layer** in the top menu and then click on **New Layer**. At the bottom of the **New Layer** options window, click on the **Fill With** dropdown menu and choose **Foreground Color**. Click on **OK**. Then go to the **Layers** menu in the bottom right and drag the new layer under the image layer
     
-        <img src="images\act-3\4-layer.gif" alt="new layer" style="width:720px;">
-    
+    <button onclick="toggle('gif5')">Show/Hide Animation</button>
+    <div id="gif5">
+    <img src="images\act-3\4-layer.gif" alt="new layer" style="width:720px;">
+    </div>
+
     -   You should now have a full, square image with a matching background. To save it, go to **File -> Save**. When a window pops up, click **Save**. Another window will pop up, click **OK**
 5.  **Save:**
     -   Whenever you see the asterisks to the left of the file name up in the top center of the software, this is an indication that you've made a change to your file and have not saved it
@@ -52,9 +60,11 @@ In this activity we are going to change the aspect ratio of an image without cro
 6.  **Placing an Image:**
     -   For this second method, we will start with a blank canvas. Go to **File -> New**. A window will pop up with options for starting a new, blank document. Here you can choose the dimensions necessary for your project. For this one, we are going to create a letter size image. Click on the **Template** dropdown and choose **US Letter (300 ppi)** and then click **OK**. This will open up a blank, white canvas in the dimensions of a letter size sheet of paper
     
-        <img src="images\act-3\6-placing.gif" alt="placing on layer" style="width:720px;">
-        
-        <img src="images\act-3\6-layers.png" alt="layers" style="float:right;width:240px;">
+    <button onclick="toggle('gif6')">Show/Hide Animation</button>
+    <div id="gif6">
+    <img src="images\act-3\6-placing.gif" alt="placing on layer" style="width:720px;">
+     </div>   
+    <img src="images\act-3\6-layers.png" alt="layers" style="float:right;width:240px;">
     
     -   Click on **File -> Open as Layers**, find the original image you downloaded, and then click **Open**. This will place the image in the center of the canvas and create a new layer for it in the **Layers** panel on the right
     
