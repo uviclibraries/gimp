@@ -24,15 +24,16 @@ In this activity we will be changing the colours of objects in a photo (note: th
 4.  Click on the **Foreground Select Tool** (picture of a person with a square behind it) in the left toolbar. _Note: In newer versions of GIMP, the foreground select tool might not be automatically visible in the left toolbar. In this case you can access it by hovering over the **Free Select Tool** (picture of a lasso), clicking and holding the left mouse button such that a small menu appears, and then dragging your mouse while **still holding down the left mouse button** to the foreground select option, releasing over it to select._ Use the foreground select tool to click and drag a rough selection around one of the apple halves (see example). When you get around to the end of the selection, the end circle of the selection points will turn orange to indicate it is the end join
 
    <button onclick="toggle('gif1')">Show/Hide Animation</button>
-    <div id="gif1"> 
+<div id="gif1"> 
     <img src="images\bonus-act\gimp-bonus-1.gif" alt="tracing apple" style="width:720px;">
     </div>
-    <img src="images\bonus-act\5-foregroundselect-new.png" alt="foreground select" style="float:right;width:180px;margin-bottom:10px">
+    
+<img src="images\bonus-act\5-foregroundselect-new.png" alt="foreground select" style="float:right;width:180px;margin-bottom:10px">
 
 5.  Hit the **Enter** key. This will turn everything outside the selection blue and change your selection tool into a circle. Use this to **paint a selection over the inside of the apple slice** (you can adjust the **Stroke Width** to make it larger in the tool options on the left if needed). Don't worry about getting all the way over to the edge, just stay inside the outlines of the apple. When finished, click the **Select** button in the small **Foreground Select** box in the upper right corner
 <button onclick="toggle('gif2')">Show/Hide Animation</button>
     <div id="gif2">
-    <img src="images\bonus-act\gimp-bonus-2.gif" alt="selecting foreground" style="width:720px;">
+    <img src="images\bonus-act\gimp-bonus-2.gif" alt="selecting foreground" style="width:720px;"></div>
 
 6.  You should now have a selection line around the edges of the apple. Click on **colors** in the upper menu and then click on **Hue-Saturation**. This will bring up a dialog box. Increasing **Hue** will bring the colour into the greens and blues, decreasing it will bring the colour into the orange, red, and purple range. You can increase the **Saturation** for more intense colour as well. Click **OK**
 <button onclick="toggle('gif3')">Show/Hide Animation</button>
