@@ -48,4 +48,16 @@ In this activity we will be changing the colours of objects in a photo (note: th
 
 Bonus: Another image to practice with: [https://unsplash.com/photos/YDZbFOOnLsE](https://unsplash.com/photos/YDZbFOOnLsE){:target="_blank"}
 
+
+<script>  
+
+    function toggle(input) {
+        var x = document.getElementById(input);
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+</script>
 [NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
