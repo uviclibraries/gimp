@@ -62,7 +62,7 @@ Let's move on with using GIMP and do some basic edits to a photo. If you have an
     -   First, zoom in on the top screw on the post by clicking on the **Magnifying Glass** tool in the left toolbar. The options for this tool will load beneath the toolbar. Make sure **Zoom In** is selected and then click on the screw to zoom in on it
 
     <button onclick="toggle('gif6')">Show / Hide Animation </button>
-      <div id="gif6">
+  <div id="gif6">
       <img src="images\act-2\6-zoom.gif" alt="zoom demo" style="width:720px;">
       </div>    
 
@@ -74,12 +74,9 @@ Let's move on with using GIMP and do some basic edits to a photo. If you have an
         
     -   Hold down the Command key (Apple) or Ctrl key (Windows) while clicking on a clean spot of the pole that you want to duplicate and use to replace in the area where the screw is. Release the button and the mouse and then use your left mouse button to **draw over the screw** until it is gone. Go ahead and clean up the blemish right above it too. See to the right for a before and after. Optionally, use the **Healing Tool** to remove the screw at the base of the pole
 
-
-
-    <button onclick="toggle('gif7')">Show / Hide Animation </button>
-      <div id="gif7">
+   <button onclick="toggle('gif7')">Show / Hide Animation </button>
+<div id="gif7">
       <img src="images\act-2\6-healing.gif" alt="healing demo" style="width:720px;">
-    
       </div>
 
     <img src="images\act-2\6-somemore.png" alt="some more" style="float:right;width:180px;height:240px;margin-left:10px;">
@@ -102,4 +99,5 @@ Let's move on with using GIMP and do some basic edits to a photo. If you have an
         }
     }
 </script>
+
 [NEXT STEP: Activity 3](activity-3.html){: .btn .btn-blue }
