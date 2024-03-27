@@ -38,7 +38,7 @@ Let's move on with using GIMP and do some basic edits to a photo. If you have an
   <img src="images\act-2\4-desaturate.gif" alt="desaturate demo" style="width:720px;">
   </div>
 
-    -   Next, click on **Colors** in the top menu, then **Desaturate**, and then **Mono Mixer**. A small window will pop up. You can drag up or down each of these channels to increase or decrease each colour channel, which will impact their intensity in the image. (This can be particularly useful for photos with lots of the sky in them.) Click **OK**
+ Next, click on **Colors** in the top menu, then **Desaturate**, and then **Mono Mixer**. A small window will pop up. You can drag up or down each of these channels to increase or decrease each colour channel, which will impact their intensity in the image. (This can be particularly useful for photos with lots of the sky in them.) Click **OK**
 
 <button onclick="toggle('gif4')">Show / Hide Animation </button>
   <div id="gif4">
