@@ -15,7 +15,8 @@ Let's start with using GIMP to crop and export a smaller version of a photo. If 
 
 1.  Go to [this image](https://bit.ly/335hAut){:target="_blank"}. Click on the green **Free Download** button to save it
 
-2.  Open the photo in GIMP by going to **File -> Open** in the upper menu. 
+2.  Open the photo in GIMP by going to **File -> Open** in the upper menu.
+
 
 <img src="images\act-1\2-fileopen.png" alt="file open" style="float:right;width:120px;">
 
@@ -28,7 +29,7 @@ Find where you saved the photo and open it. If your browser automatically saved 
 
 <img src="images\act-1\3-imageduplicate.png" alt="image duplicate" style="float:right;width:320px;">
 
-3. We are first going to make a copy of this image before we edit it so that we keep a full size copy of our original. To do this, click on **Image** in the top menu and then click on **Duplicate**.
+3.  We are first going to make a copy of this image before we edit it so that we keep a full size copy of our original. To do this, click on **Image** in the top menu and then click on **Duplicate**.
 
  <img src="images\act-3\3-duplicate.png" alt="duplicate" style="float:right;width:240px;margin-bottom:5px;">
  
@@ -45,7 +46,7 @@ Find where you saved the photo and open it. If your browser automatically saved 
 
 <img src="images\act-1\4-croptool.png" alt="crop tool" style="float:right;width:120px;">
 
-4.{:start=4} **Crop Tool:**
+4.  **Crop Tool:**
 -   Click on the **Crop Tool** in the left toolbar. The Crop Tool options will appear below the toolbar on the left. Click to select **Fixed Aspect Ratio**. In the field below it, enter 4:6 to change the aspect ratio to the same as that of a 4x6 photo.
     
  <img src="images\act-1\4-aspectratio.png" alt="aspect ratio" style="float:right;width:180px;">
