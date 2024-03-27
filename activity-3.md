@@ -36,9 +36,10 @@ In this activity we are going to change the aspect ratio of an image without cro
 <div id="gif3">
     <img src="images\act-3\4-canvassize.gif" alt="canvas size demo" style="width:720px;">
     </div>   
-    <img src="images\act-3\4-dropper.png" alt="dropper icon" style="float:right;width:90px;">
     
-    -   The image will now have a bigger canvas size, but the stretched canvas will have a blank, checkered background. To match the background color, click on the **Color Picker** tool (eyedropper icon) in the left toolbar. Then, use the tool to click on the yellow background of the image. This will change the foreground color in the swatches and make that exact yellow the new selected colour (see below for a before and after)
+<img src="images\act-3\4-dropper.png" alt="dropper icon" style="float:right;width:90px;">
+
+The image will now have a bigger canvas size, but the stretched canvas will have a blank, checkered background. To match the background color, click on the **Color Picker** tool (eyedropper icon) in the left toolbar. Then, use the tool to click on the yellow background of the image. This will change the foreground color in the swatches and make that exact yellow the new selected colour (see below for a before and after)
     
 <img src="images\act-3\4-selectedcolorbefore.png" alt="before color select" style="float:left;width:180px;height:100px;margin-right:10px;margin-bottom:10px;">
     <img src="images\act-3\4-selectedcolor.png" alt="after color select" style="float:left;width:180px;height:100px">
@@ -48,32 +49,34 @@ In this activity we are going to change the aspect ratio of an image without cro
     <img src="images\act-3\4-dropper.gif" alt="using dropper" style="width:720px;">
     </div>
 
-    -   Next we will add a layer behind the image. Click on **Layer** in the top menu and then click on **New Layer**. At the bottom of the **New Layer** options window, click on the **Fill With** dropdown menu and choose **Foreground Color**. Click on **OK**. Then go to the **Layers** menu in the bottom right and drag the new layer under the image layer
+Next we will add a layer behind the image. Click on **Layer** in the top menu and then click on **New Layer**. At the bottom of the **New Layer** options window, click on the **Fill With** dropdown menu and choose **Foreground Color**. Click on **OK**. Then go to the **Layers** menu in the bottom right and drag the new layer under the image layer
     
 <button onclick="toggle('gif5')">Show/Hide Animation</button>
 <div id="gif5">
     <img src="images\act-3\4-layer.gif" alt="new layer" style="width:720px;">
     </div>
 
-    -   You should now have a full, square image with a matching background. To save it, go to **File -> Save**. When a window pops up, click **Save**. Another window will pop up, click **OK**
+You should now have a full, square image with a matching background. To save it, go to **File -> Save**. When a window pops up, click **Save**. Another window will pop up, click **OK**
+
 5.  **Save:**
-    -   Whenever you see the asterisks to the left of the file name up in the top center of the software, this is an indication that you've made a change to your file and have not saved it
-    -   Click on **File -> Save As** in the upper left corner. We are going to save this in the GIMP .xcf format, which is the working format within GIMP that will preserve the layers. Choose where you would like to save the file, and give it a name you will remember. Click **Save**. You can export a JPG or PNG of the image using instructions from Activities #1 or #2
+-  Whenever you see the asterisks to the left of the file name up in the top center of the software, this is an indication that you've made a change to your file and have not saved it
+-  Click on **File -> Save As** in the upper left corner. We are going to save this in the GIMP .xcf format, which is the working format within GIMP that will preserve the layers. Choose where you would like to save the file, and give it a name you will remember. Click **Save**. You can export a JPG or PNG of the image using instructions from Activities #1 or #2
 6.  **Placing an Image:**
-    -   For this second method, we will start with a blank canvas. Go to **File -> New**. A window will pop up with options for starting a new, blank document. Here you can choose the dimensions necessary for your project. For this one, we are going to create a letter size image. Click on the **Template** dropdown and choose **US Letter (300 ppi)** and then click **OK**. This will open up a blank, white canvas in the dimensions of a letter size sheet of paper
+- For this second method, we will start with a blank canvas. Go to **File -> New**. A window will pop up with options for starting a new, blank document. Here you can choose the dimensions necessary for your project. For this one, we are going to create a letter size image. Click on the **Template** dropdown and choose **US Letter (300 ppi)** and then click **OK**. This will open up a blank, white canvas in the dimensions of a letter size sheet of paper
     
 <button onclick="toggle('gif6')">Show/Hide Animation</button>
 <div id="gif6">
     <img src="images\act-3\6-placing.gif" alt="placing on layer" style="width:720px;">
      </div>   
-    <img src="images\act-3\6-layers.png" alt="layers" style="float:right;width:240px;">
+
+<img src="images\act-3\6-layers.png" alt="layers" style="float:right;width:240px;">
     
-    -   Click on **File -> Open as Layers**, find the original image you downloaded, and then click **Open**. This will place the image in the center of the canvas and create a new layer for it in the **Layers** panel on the right
+Click on **File -> Open as Layers**, find the original image you downloaded, and then click **Open**. This will place the image in the center of the canvas and create a new layer for it in the **Layers** panel on the right
     
 <img src="images\act-3\6-bucket.png" alt="bucket icon" style="float:right;width:90px;margin-left:10px;">
      <img src="images\act-3\6-color.png" alt="color" style="float:right;width:120px;">
     
-    -   The color in your **Color Picker** should still be selected from the background from the earlier steps. Click on the **Background Layer** to make sure it is the selected layer. Then, click on the **Bucket Fill Tool** in the left toolbar (paint bucket icon). In the tool options beneath the toolbar in the left, make sure **FG color fill** is selected and **Fill whole selection**. Hover the **Bucket Fill Tool** over the white area of the image and then **click**. The colour you selected should fill in the whole white area
+The color in your **Color Picker** should still be selected from the background from the earlier steps. Click on the **Background Layer** to make sure it is the selected layer. Then, click on the **Bucket Fill Tool** in the left toolbar (paint bucket icon). In the tool options beneath the toolbar in the left, make sure **FG color fill** is selected and **Fill whole selection**. Hover the **Bucket Fill Tool** over the white area of the image and then **click**. The colour you selected should fill in the whole white area
         
  <img src="images\act-3\7-result2.png" alt="after" style="float:right;width:180px;margin-left:10px;">
      <img src="images\act-3\7-result.png" alt="before" style="float:right;width:180px;">
