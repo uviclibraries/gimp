@@ -30,7 +30,6 @@ Find where you saved the photo and open it. If your browser automatically saved 
 
 3. We are first going to make a copy of this image before we edit it so that we keep a full size copy of our original. To do this, click on **Image** in the top menu and then click on **Duplicate**.
 
-
  <img src="images\act-3\3-duplicate.png" alt="duplicate" style="float:right;width:240px;margin-bottom:5px;">
  
  This will create a new copy of the image. You will now see above your image that you have two tabs open in GIMP with the thumbnails of the two files. If you click on the thumbnails, a little "X" appears next to the active one and at the top of the software the filename appears. The new copy will be called **[Untitled]** until you save it with a new name. 
@@ -46,7 +45,7 @@ Find where you saved the photo and open it. If your browser automatically saved 
 
 <img src="images\act-1\4-croptool.png" alt="crop tool" style="float:right;width:120px;">
 
-4.   **Crop Tool:**
+4.{:start=4} **Crop Tool:**
 -   Click on the **Crop Tool** in the left toolbar. The Crop Tool options will appear below the toolbar on the left. Click to select **Fixed Aspect Ratio**. In the field below it, enter 4:6 to change the aspect ratio to the same as that of a 4x6 photo.
     
  <img src="images\act-1\4-aspectratio.png" alt="aspect ratio" style="float:right;width:180px;">
