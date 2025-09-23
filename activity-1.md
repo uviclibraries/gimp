@@ -38,7 +38,7 @@ Let's start with using GIMP to crop and export a smaller version of a photo. If 
     <br><img src="images\act-1\4-croptool.png" alt="crop tool" style="width:120px;"><br> 
     <br><img src="images\act-1\4-aspectratio.png" alt="aspect ratio" style="width:180px;">
     - Next to the input field there are the Portrait and Landscape option buttons to change the orientation of the crop
-    <img src="images\act-1\4-cropapply.png" alt="apply the crop" style="width:180px;"> 
+    <img src="images\act-1\4-cropapply.png" alt="apply the crop" style="width:180px;"> <br>
     -   Note: If you uncheck **Fixed**, you can drag over the photo to freely crop where you want. You can use the mouse to drag the crop window up and down to reposition it and drag the corners to resize the crop. The darker areas outside the window will be cropped out. If you click outside the crop window, it will start a new crop window
     -   When satisfied with the placement of the crop window, **hit the Enter key** on your keyboard to apply the crop
     <button  onclick="toggle('gif3')">Show / Hide Animation</button>
