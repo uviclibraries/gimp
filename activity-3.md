@@ -35,8 +35,8 @@ Make sure you are working in the one you plan to resize. It's best to close the 
     <div id="gif3">
         <img src="images\act-3\4-canvassize.gif" alt="canvas size demo" style="width:720px;">
         </div>   
-    <img src="images\act-3\4-dropper.png" alt="dropper icon" style="float:right;width:90px;"><br>
     - The image will now have a bigger canvas size, but the stretched canvas will have a blank, checkered background. To match the background color, click on the **Color Picker** tool (eyedropper icon) in the left toolbar. Then, use the tool to click on the yellow background of the image. This will change the foreground color in the swatches and make that exact yellow the new selected colour (see below for a before and after.)<br>
+       <img src="images\act-3\4-dropper.png" alt="dropper icon" style="float:right;width:90px;"><br>
     <img src="images\act-3\4-selectedcolorbefore.png" alt="before color select" style="float:left;width:180px;height:100px;margin-right:10px;margin-bottom:10px;"><br>
     <img src="images\act-3\4-selectedcolor.png" alt="after color select" style="float:left;width:180px;height:100px"><br>
     <button onclick="toggle('gif4')">Show/Hide Animation</button>
