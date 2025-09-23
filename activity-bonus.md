@@ -29,7 +29,7 @@ _Note: In newer versions of GIMP, the foreground select tool might not be automa
     <div id="gif2">
     <img src="images\bonus-act\gimp-bonus-2.gif" alt="selecting foreground" style="width:720px;"></div>
 
-6.  You should now have a selection line around the edges of the apple. Click on **colors** in the upper menu and then click on **Hue-Saturation**. This will bring up a dialog box. Increasing **Hue** will bring the colour into the greens and blues, decreasing it will bring the colour into the orange, red, and purple range. You can increase the **Saturation** for more intense colour as well. Click **OK**
+6.  You should now have a selection line around the edges of the apple. Click on **colors** in the upper menu and then click on **Hue-Saturation**. This will bring up a dialog box. Increasing **Hue** will bring the colour into the greens and blues, decreasing it will bring the colour into the orange, red, and purple range. You can increase the **Saturation** for more intense colour as well. Click **OK.**
     <button onclick="toggle('gif3')">Show/Hide Animation</button>
         <div id="gif3">
         <img src="images\bonus-act\gimp-bonus-3.gif" alt="changing hue" style="width:720px;">
