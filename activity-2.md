@@ -60,7 +60,7 @@ Click on **Keep.**<br>
         </div>    
         <img src="images\act-2\6-healing.png" alt="healing icon" style="float:right;width:80px;margin-left:10px;"><br>
     - Click on the **Healing Tool** in the left toolbar (bandaid icon). Beneath it, the options for this tool will load. In the options, you can choose a brush size, etc. The default of 51 should be big enough for this project. <br>
-    <img src="images\act-2\6-healingmenu.png" alt="healing menu" style="float:right;width:180px;margin-bottom:10px;">        
+    <img src="images\act-2\6-healingmenu.png" alt="healing menu" style="float:right;width:180px;margin-bottom:10px;"><br>     
     - Hold down the Command key (Apple) or Ctrl key (Windows) while clicking on a clean spot of the pole that you want to duplicate and use to replace in the area where the screw is. Release the button and the mouse and then use your left mouse button to **draw over the screw** until it is gone. Go ahead and clean up the blemish right above it too. See to the right for a before and after. Optionally, use the **Healing Tool** to remove the screw at the base of the pole.<br>
    <button onclick="toggle('gif7')">Show / Hide Animation </button>
     <div id="gif7">
