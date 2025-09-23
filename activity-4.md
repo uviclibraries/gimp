@@ -34,10 +34,11 @@ This will bring up the tool's options below the left toolbar. We will be using t
    <button onclick="toggle('gif3')">Show/Hide Animation</button>
    <div id="gif3">
        <img src="images\act-4\6-opacity.gif" alt="opacity" style="width:720px;">
-       </div>  
-   <img src="images\act-4\7-moveicon.png" alt="move icon" style="float:right;width:90px;"><br>
+       </div> 
 
-7. **Click back onto the text layer**. Over in the left toolbar, click on the **Move Tool** (four arrows icon) and use it to move the text so the center of the N in the text is over the car in the photo.
+7. **Click back onto the text layer**. Over in the left toolbar, click on the **Move Tool** (four arrows icon).<br>
+   <img src="images\act-4\7-moveicon.png" alt="move icon" style="float:right;width:90px;"><br>****
+Use it to move the text so the center of the N in the text is over the car in the photo.<br>
    <button onclick="toggle('gif4')">Show/Hide Animation</button>
     <div id="gif4">
        <img src="images\act-4\7-move.gif" alt="move" style="width:720px;">
