@@ -16,7 +16,7 @@ Let's start with using GIMP to crop and export a smaller version of a photo. If 
 
 2.  Open the photo in GIMP by going to **File -> Open** in the upper menu.
     <img src="images\act-1\2-fileopen.png" alt="file open" style="float:right;width:120px;">
-    - Find where you saved the photo and open it. If your browser automatically saved it for you, it is probably in your **Downloads** folder. It may pop up with another window asking to **Convert to RGB Working Space**. (Note: there are certain circumstances you may need to convert an image to a differentcolor profile, such as when importing from a scanner or camera. But in this case, it is not necessary.) Click on **Keep**                    
+    - Find where you saved the photo and open it. If your browser automatically saved it for you, it is probably in your **Downloads** folder. It may pop up with another window asking to **Convert to RGB Working Space**. (Note: there are certain circumstances you may need to convert an image to a different color profile, such as when importing from a scanner or camera. But in this case, it is not necessary.) Click on **Keep**                    
     <button onclick="toggle('gif1')"> Show / Hide Animation</button>
       <div id="gif1">
       <img src="images\act-1\2-fileopen.gif" alt="open file demo" style="width:720px;">
