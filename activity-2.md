@@ -31,7 +31,7 @@ Click on **Keep.**<br>
       <img src="images\act-2\3-duplicate.gif" alt="duplicate demo" style="width:720px;">
       </div>
 4.  **Converting to Black and White:**
-    -   Click on **Colors** in the top menu (see right), then **Desaturate**, and then **Desaturate...**. A small window will pop up. Make sure **Luminance** is selected as the **Mode**. Click **OK**
+    -   Click on **Colors** in the top menu (see right), then **Desaturate**, and then **Desaturate...**. A small window will pop up. Make sure **Luminance** is selected as the **Mode**. Click **OK.**
     <button onclick="toggle('gif3')">Show / Hide Animation </button>
       <div id="gif3">
       <img src="images\act-2\4-desaturate.gif" alt="desaturate demo" style="width:720px;">
@@ -41,7 +41,7 @@ Click on **Keep.**<br>
       <div id="gif4">
       <img src="images\act-2\4-monomixer.gif" alt="monomixer" style="width:720px;">
       </div> 
-    - Click on **Colors** in the top menu again, and then click on **Curves**. This will bring up a small window. Click on the diagonal line in three places to **create three evenly spaced round handles** (see GIF animation below). Once the handles are there, you can grab them with your mouse and **drag them up or down** to make adjustments in your photo. The wave form in the back shows the lights and darks in your image. To the left of the waveform are the darks and the right side displays the lights. In the example GIF animation, the diagonal Curve line has been dragged to give an upwards bump to the brights and a downwards bump to the darks, which is a way to slightly increase the contrast of the image, if needed. Click **OK**
+    - Click on **Colors** in the top menu again, and then click on **Curves**. This will bring up a small window. Click on the diagonal line in three places to **create three evenly spaced round handles** (see GIF animation below). Once the handles are there, you can grab them with your mouse and **drag them up or down** to make adjustments in your photo. The wave form in the back shows the lights and darks in your image. To the left of the waveform are the darks and the right side displays the lights. In the example GIF animation, the diagonal Curve line has been dragged to give an upwards bump to the brights and a downwards bump to the darks, which is a way to slightly increase the contrast of the image, if needed. Click **OK.**
     <button onclick="toggle('gif5')">Show / Hide Animation </button>
       <div id="gif5">
       <img src="images\act-2\4-colorcurves.gif" alt="color curves" style="width:720px;">
@@ -49,7 +49,7 @@ Click on **Keep.**<br>
 
 5.  **Save:**
     -   Whenever you see the asterisk to the left of the file name up in the top center of the software, this is an indication that you've made a change to your file and have not saved it.
-    -   Click on **File -> Save As** in the upper left corner. We are going to save this in the GIMP .xcf format, which is the working format within GIMP. Choose where you would like to save the file and give it a name you will remember. Click **Save**
+    -   Click on **File -> Save As** in the upper left corner. We are going to save this in the GIMP .xcf format, which is the working format within GIMP. Choose where you would like to save the file and give it a name you will remember. Click **Save.**
 
 6.  **Healing Tool:** Next we will remove the visible screws in the post. <br>
     <img src="images\act-2\6-magnify.png" alt="magnifying glass" style="float:right;width:90px;margin-bottom:10px;"><br>
@@ -58,7 +58,7 @@ Click on **Keep.**<br>
         <div id="gif6">
         <img src="images\act-2\6-zoom.gif" alt="zoom demo" style="width:720px;">
         </div>    
-        <img src="images\act-2\6-healing.png" alt="healing icon" style="float:right;width:80px;margin-left:10px;">
+        <img src="images\act-2\6-healing.png" alt="healing icon" style="float:right;width:80px;margin-left:10px;"><br>
     - Click on the **Healing Tool** in the left toolbar (bandaid icon). Beneath it, the options for this tool will load. In the options, you can choose a brush size, etc. The default of 51 should be big enough for this project
     <img src="images\act-2\6-healingmenu.png" alt="healing menu" style="float:right;width:180px;margin-bottom:10px;">        
     - Hold down the Command key (Apple) or Ctrl key (Windows) while clicking on a clean spot of the pole that you want to duplicate and use to replace in the area where the screw is. Release the button and the mouse and then use your left mouse button to **draw over the screw** until it is gone. Go ahead and clean up the blemish right above it too. See to the right for a before and after. Optionally, use the **Healing Tool** to remove the screw at the base of the pole
