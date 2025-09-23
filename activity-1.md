@@ -61,7 +61,7 @@ Let's start with using GIMP to crop and export a smaller version of a photo. If 
      </div>
     <img src="images\act-1\5-crop.png" alt="crop" style="float:right;width:180px;"><br>
     -   Next, this image is 700 by 700, which isn't yet the size that was needed. We will need to use **Crop** to cut it down to 700 by 460. Click on the **Crop Tool** in the left hand toolbar.
-     -   Change the **Fixed** dropdown to **Width**, then set it to **700** in the field below it (see screenshot to the right). Make sure **Fixed** is checked with an X
+     -   Change the **Fixed** dropdown to **Width**, then set it to **700** in the field below it (see screenshot to the right). Make sure **Fixed** is checked with an X. <br>
     <img src="images\act-1\5-crop2.png" alt="crop" style="float:right;width:180px;">
     -   Drag the crop window over the image. You'll notice that it stays the same width but drags over the image in the other direction to your chosen size and the number in the **Crop** information under **Size** changes as you drag. Keep dragging until you hit the target number. In this example, it is **460**. Release the mouse button
     -   As in the earlier instructions, you can click inside the crop window to move it around and adjust the position and then hit the **Enter** key when ready to finish the crop
