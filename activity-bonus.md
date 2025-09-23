@@ -15,7 +15,7 @@ In this activity we will be changing the colours of objects in a photo (note: th
 3.  Click on the **Zoom Tool** (magnifying glass) in the left toolbar to zoom in a bit on one of the apple halves so you can see it better.<br>
      <img src="images\bonus-act\2-magnify.png" alt="magnify icon" style="float:right;width:60px;"><br>
     <img src="images\bonus-act\2-freeselect.PNG" alt="free select icon" style="float:right;width:60px;margin-left:10px;"><br>
-4.  Click on the **Foreground Select Tool** (picture of a person with a square behind it) in the left toolbar.
+4.  Click on the **Foreground Select Tool** (picture of a person with a square behind it) in the left toolbar.<br>
   <img src="images\bonus-act\2-another.png" alt="foreground select icon" style="float:right;width:60px;margin-left:10px;"><br>
 _Note: In newer versions of GIMP, the foreground select tool might not be automatically visible in the left toolbar. In this case you can access it by hovering over the **Free Select Tool** (picture of a lasso), clicking and holding the left mouse button such that a small menu appears, and then dragging your mouse while **still holding down the left mouse button** to the foreground select option, releasing over it to select._ Use the foreground select tool to click and drag a rough selection around one of the apple halves (see example). When you get around to the end of the selection, the end circle of the selection points will turn orange to indicate it is the end join.
        <button onclick="toggle('gif1')">Show/Hide Animation</button>
