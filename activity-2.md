@@ -14,7 +14,9 @@ Let's move on with using GIMP and do some basic edits to a photo. If you have an
 
     <img src="images\act-2\1-open.png" alt="open" style="float:right;width:120px;">
 
-2.  Open the photo in GIMP by going to **File -> Open** in the upper menu. Find where you saved the photo and open it. If your browser automatically saved it for you, it is probably in your **Downloads** folder. It may pop up with another window asking to **Convert to RGB Working Space**. (_Note: there are certain circumstances wherein you may need to convert an image to a different color profile, such as when importing from a scanner or camera. But in this case, it is not necessary._) <img src="images\act-2\2-duplicate.png" alt="duplicate" style="float:right;width:240px;">Click on **Keep**
+2.  Open the photo in GIMP by going to **File -> Open** in the upper menu. Find where you saved the photo and open it. If your browser automatically saved it for you, it is probably in your **Downloads** folder. It may pop up with another window asking to **Convert to RGB Working Space**. (_Note: there are certain circumstances wherein you may need to convert an image to a different color profile, such as when importing from a scanner or camera. But in this case, it is not necessary._)<br>
+<img src="images\act-2\2-duplicate.png" alt="duplicate" style="float:right;width:240px;"><br>
+Click on **Keep.**<br>
     <button onclick="toggle('gif1')">Show / Hide Animation</button>
       <div id="gif1">
       <img src="images\act-2\2-open.gif" alt="open" style="width:720px;">
