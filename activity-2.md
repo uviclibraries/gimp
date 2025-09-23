@@ -59,17 +59,17 @@ Click on **Keep.**<br>
         <img src="images\act-2\6-zoom.gif" alt="zoom demo" style="width:720px;">
         </div>    
         <img src="images\act-2\6-healing.png" alt="healing icon" style="float:right;width:80px;margin-left:10px;"><br>
-    - Click on the **Healing Tool** in the left toolbar (bandaid icon). Beneath it, the options for this tool will load. In the options, you can choose a brush size, etc. The default of 51 should be big enough for this project
+    - Click on the **Healing Tool** in the left toolbar (bandaid icon). Beneath it, the options for this tool will load. In the options, you can choose a brush size, etc. The default of 51 should be big enough for this project. <br>
     <img src="images\act-2\6-healingmenu.png" alt="healing menu" style="float:right;width:180px;margin-bottom:10px;">        
-    - Hold down the Command key (Apple) or Ctrl key (Windows) while clicking on a clean spot of the pole that you want to duplicate and use to replace in the area where the screw is. Release the button and the mouse and then use your left mouse button to **draw over the screw** until it is gone. Go ahead and clean up the blemish right above it too. See to the right for a before and after. Optionally, use the **Healing Tool** to remove the screw at the base of the pole
+    - Hold down the Command key (Apple) or Ctrl key (Windows) while clicking on a clean spot of the pole that you want to duplicate and use to replace in the area where the screw is. Release the button and the mouse and then use your left mouse button to **draw over the screw** until it is gone. Go ahead and clean up the blemish right above it too. See to the right for a before and after. Optionally, use the **Healing Tool** to remove the screw at the base of the pole.<br>
    <button onclick="toggle('gif7')">Show / Hide Animation </button>
     <div id="gif7">
       <img src="images\act-2\6-healing.gif" alt="healing demo" style="width:720px;">
       </div>
     <img src="images\act-2\6-somemore.png" alt="some more" style="float:right;width:180px;height:240px;margin-left:10px;">
     <img src="images\act-2\6-screw.png" alt="screw" style="float:right;width:180px;height:240px;margin-left:10px;">
-    - Use the **Zoom Tool** to zoom back out to see the whole photo
-    - Click on **File -> Save** to save your recent changes
+    - Use the **Zoom Tool** to zoom back out to see the whole photo.
+    - Click on **File -> Save** to save your recent changes.
 7.  **Exporting:**
     -   To export this to a full size JPG file, click on **File -> Export As** in the upper left corner. A window will pop up with options. Change the **File Type** to **JPG** in the dropdown in the lower left corner of the **Export Image** window. Choose your save location. Click the **Export** button in the bottom corner when ready. Another small window will pop up giving you some additional options. Change the quality to 100. Click **Export**
     -   You will now have your original unedited photo, an edited .xcf working format that you can go back and edit more, and a JPG file that is ready to print. If you want a smaller JPG to share online, you can scale down the pixels using the instructions from Activity #1
