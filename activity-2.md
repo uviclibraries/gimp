@@ -53,7 +53,7 @@ Click on **Keep.**<br>
 
 6.  **Healing Tool:** Next we will remove the visible screws in the post. <br>
     <img src="images\act-2\6-magnify.png" alt="magnifying glass" style="float:right;width:90px;margin-bottom:10px;"><br>
-    -   First, zoom in on the top screw on the post by clicking on the **Magnifying Glass** tool in the left toolbar. The options for this tool will load beneath the toolbar. Make sure **Zoom In** is selected and then click on the screw to zoom in on it. 
+    -   First, zoom in on the top screw on the post by clicking on the **Magnifying Glass** tool in the left toolbar. The options for this tool will load beneath the toolbar. Make sure **Zoom In** is selected and then click on the screw to zoom in on it. <br>
     <button onclick="toggle('gif6')">Show / Hide Animation </button>
         <div id="gif6">
         <img src="images\act-2\6-zoom.gif" alt="zoom demo" style="width:720px;">
