@@ -18,7 +18,7 @@ In this activity we are going to change the aspect ratio of an image without cro
         </div>
     <img src="images\act-3\3-duplicatemenu.png" alt="duplicate menu" style="float:right;width:320px;margin-bottom:5px;">
 
-3. We are first going to make a copy of this image before we edit it so that we keep a full size copy of our original. To do this, click on **Image** in the top menu and then click on **Duplicate**. 
+3. We are first going to make a copy of this image before we edit it so that we keep a full size copy of our original. To do this, click on **Image** in the top menu and then click on **Duplicate**.<br>
 <img src="images\act-3\3-duplicate.png" alt="duplicate" style="float:right;width:240px;margin-bottom:5px;"><br>
 This will create a new copy of the image. You will now see above your image that you have two tabs open in GIMP with the thumbnails of the two files. If you click on the thumbnails, a little "X" appears next to the active one and at the top of the software the filename appears. The new copy will be called **[Untitled]** until you save it with a new name.<br>
 <img src="images\act-3\3-untitled.png" alt="untitled" style="float:right;width:180px;"><br>
