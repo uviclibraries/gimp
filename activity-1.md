@@ -12,7 +12,7 @@ Let's start with using GIMP to crop and export a smaller version of a photo. If 
 
 <img src="images\act-1\1-download.png" alt="free download" style="float:right;width:180px;">
 
-1.  Go to [this image](https://bit.ly/335hAut){:target="_blank"}. Click on the green **Free Download** button to save it
+1.  Go to [this image](https://www.pexels.com/photo/close-up-photo-of-abstract-illustration-4208443/){:target="_blank"}. Click on the green **Free Download** button to save it
 
 2.  Open the photo in GIMP by going to **File -> Open** in the upper menu. <br>
     <br><img src="images\act-1\2-fileopen.png" alt="file open" style="width:120px;">
